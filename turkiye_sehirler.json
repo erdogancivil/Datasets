@@ -34,5 +34,14 @@
     [
      {"sehirId": "4", "ilceAd": "Diyadin", "ilceSlug": "diyadin"}, {"sehirId": "4", "ilceAd": "Doğubeyazıt", "ilceSlug": "dogubeyazit"}, {"sehirId": "4", "ilceAd": "Eleşkirt", "ilceSlug": "eleskirt"}, {"sehirId": "4", "ilceAd": "Hamur", "ilceSlug": "hamur"}, {"sehirId": "4", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "4", "ilceAd": "Patnos", "ilceSlug": "patnos"}, {"sehirId": "4", "ilceAd": "Taşlıçay", "ilceSlug": "taslicay"}, {"sehirId": "4", "ilceAd": "Tutak", "ilceSlug": "tutak"}
     ]
-  }
+  },
+  {
+    "id":"5",
+    "sehirAd":"Amasya",
+    "sehirSlug":"amasya",
+    "ilceler":
+     [
+      {"sehirId": "5", "ilceAd": "Göynücek", "ilceSlug": "goynucek"}, {"sehirId": "5", "ilceAd": "Gümüşhacıköy", "ilceSlug": "gumushacikoy"}, {"sehirId": "5", "ilceAd": "Hamamözü", "ilceSlug": "hamamozu"}, {"sehirId": "5", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "5", "ilceAd": "Merzifon", "ilceSlug": "merzifon"}, {"sehirId": "5", "ilceAd": "Suluova", "ilceSlug": "suluova"}, {"sehirId": "5", "ilceAd": "Taşova", "ilceSlug": "tasova"}
+     ]
+   }
 ]
