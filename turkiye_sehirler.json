@@ -3,68 +3,68 @@
     "SehirAd":"Adana",
     "SehirSlug":"adana",
     "Ilceler": 
-    [
-      {
-        "ilceAd": "Aladağ",
-        "ilceSlug": "aladag"
-      },
-      {
-        "ilceAd": "Ceyhan",
-        "ilceSlug": "ceyhan"
-      },
-      {
-        "ilceAd": "Çukurova",
-        "ilceSlug": "cukurova"
-      },
-      {
-        "ilceAd": "Feke",
-        "ilceSlug": "feke"
-      },
-      {
-        "ilceAd": "İmamoğlu",
-        "ilceSlug": "imamoglu"
-      },
-      {
-        "ilceAd": "Karaisalı",
-        "ilceSlug": "karaisali"
-      },
-      {
-        "ilceAd": "Karataş",
-        "ilceSlug": "karatas"
-      },
-      {
-        "ilceAd": "Kozan",
-        "ilceSlug": "kozan"
-      },
-      {
-        "ilceAd": "Pozantı",
-        "ilceSlug": "pozanti"
-      },
-      {
-        "ilceAd": "Saimbeyli",
-        "ilceSlug": "saimbeyli"
-      },
-      {
-        "ilceAd": "Sarıçam",
-        "ilceSlug": "saricam"
-      },
-      {
-        "ilceAd": "Seyhan",
-        "ilceSlug": "seyhan"
-      },
-      {
-        "ilceAd": "Tufanbeyli",
-        "ilceSlug": "tufanbeyli"
-      },
-      {
-        "ilceAd": "Yumurtalık",
-        "ilceSlug": "yumurtalik"
-      },
-      {
-        "ilceAd": "Yüreğir",
-        "ilceSlug": "yuregir"
-      }
-    ]
+      [
+        {
+          "ilceAd": "Aladağ",
+          "ilceSlug": "aladag"
+        },
+        {
+          "ilceAd": "Ceyhan",
+          "ilceSlug": "ceyhan"
+        },
+        {
+          "ilceAd": "Çukurova",
+          "ilceSlug": "cukurova"
+        },
+        {
+          "ilceAd": "Feke",
+          "ilceSlug": "feke"
+        },
+        {
+          "ilceAd": "İmamoğlu",
+          "ilceSlug": "imamoglu"
+        },
+        {
+          "ilceAd": "Karaisalı",
+          "ilceSlug": "karaisali"
+        },
+        {
+          "ilceAd": "Karataş",
+          "ilceSlug": "karatas"
+        },
+        {
+          "ilceAd": "Kozan",
+          "ilceSlug": "kozan"
+        },
+        {
+          "ilceAd": "Pozantı",
+          "ilceSlug": "pozanti"
+        },
+        {
+          "ilceAd": "Saimbeyli",
+          "ilceSlug": "saimbeyli"
+        },
+        {
+          "ilceAd": "Sarıçam",
+          "ilceSlug": "saricam"
+        },
+        {
+          "ilceAd": "Seyhan",
+          "ilceSlug": "seyhan"
+        },
+        {
+          "ilceAd": "Tufanbeyli",
+          "ilceSlug": "tufanbeyli"
+        },
+        {
+          "ilceAd": "Yumurtalık",
+          "ilceSlug": "yumurtalik"
+        },
+        {
+          "ilceAd": "Yüreğir",
+          "ilceSlug": "yuregir"
+        }
+      ]
   },
   {
     "SehirAd":"Adıyaman",
