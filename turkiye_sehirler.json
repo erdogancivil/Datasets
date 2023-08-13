@@ -4,36 +4,7 @@
     "sehirSlug":"adana",
     "ilceler":
       [
-        "ilceAd": "Aladağ",
-        "ilceSlug": "aladag"
-      ],
-      [
-        "ilceAd": "Ceyhan",
-        "ilceSlug": "ceyhan"
-      ],
-      [
-        "ilceAd": "Çukurova",
-        "ilceSlug": "cukurova"
-      ],
-      [
-        "ilceAd": "Feke",
-        "ilceSlug": "feke"
-      ],
-      [
-        "ilceAd": "İmamoğlu",
-        "ilceSlug": "imamoglu"
-      ],
-      [
-        "ilceAd": "Karaisalı",
-        "ilceSlug": "karaisali"
-      ],
-      [
-        "ilceAd": "Karataş",
-        "ilceSlug": "karatas"
-      ],
-      [
-        "ilceAd": "Kozan",
-        "ilceSlug": "kozan"
+        "Aladağ", "aladag", "Ceyhan", "ceyhan", "Çukurova", "cukurova", "Feke", "feke", "İmamoğlu", "imamoglu"
       ]
   }
 ]
