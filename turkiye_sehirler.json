@@ -1,10 +1,11 @@
 [
   {
+    "id":"1"
     "sehirAd":"Adana",
     "sehirSlug":"adana",
     "ilceler":
     [
-      {"ilceAd": "Aladağ", "ilceSlug": "aladag"}, {"ilceAd": "Erdoğan", "ilceSlug": "Civil"}
+      {"sehirId": "1", "ilceAd": "Aladağ", "ilceSlug": "aladag"}, {"sehirId": "1", "ilceAd": "Ceyhan", "ilceSlug": "ceyhan"}, {"sehirId": "1", "ilceAd": "Çukurova", "ilceSlug": "cukurova"}, {"sehirId": "1", "ilceAd": "Feke", "ilceSlug": "feke"}, {"sehirId": "1", "ilceAd": "İmamoğlu", "ilceSlug": "imamoglu"}, {"sehirId": "1", "ilceAd": "Karaisalı", "ilceSlug": "karaisali"}, {"sehirId": "1", "ilceAd": "Karataş", "ilceSlug": "karatas"}, {"sehirId": "1", "ilceAd": "Kozan", "ilceSlug": "kozan"}, {"sehirId": "1", "ilceAd": "Pozantı", "ilceSlug": "pozanti"}, {"sehirId": "1", "ilceAd": "Saimbeyli", "ilceSlug": "saimbeyli"}, {"sehirId": "1", "ilceAd": "Sarıçam", "ilceSlug": "saricam"}, {"sehirId": "1", "ilceAd": "Seyhan", "ilceSlug": "seyhan"}, {"sehirId": "1", "ilceAd": "Tufanbeyli", "ilceSlug": "tufanbeyli"}, {"sehirId": "1", "ilceAd": "Yumurtalık", "ilceSlug": "yumurtalik"}, {"sehirId": "1", "ilceAd": "Yüreğir", "ilceSlug": "yuregir"}
     ]
   }
 ]
