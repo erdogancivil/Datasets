@@ -4,7 +4,7 @@
     "sehirSlug":"adana",
     "ilceler":
     [
-      {"ilceAd": "Aladağ"}, {"ilceSlug": "civil"}, {"ilceAd": "Erdoğan"}, {"ilceSlug": "erdogan"}
+      {"ilceAd": "Aladağ", "ilceSlug": "aladag"}, {"ilceAd": "Erdoğan", "ilceSlug": "Civil"}
     ]
   }
 ]
