@@ -4,7 +4,7 @@
     "sehirSlug":"adana",
     "ilceler":
     [
-      ["Aladağ",  "aladag"], ["Aladağ",  "aladag"]
+      {"ilceAd": "aladag"}, {"ilceSlug": "aladag"}, {"ilceAd": "aladag"}, {"ilceSlug": "aladag"}
     ]
   }
 ]
