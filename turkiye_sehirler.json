@@ -4,7 +4,8 @@
     "sehirSlug":"adana",
     "ilceler":
       [
-        "Aladağ", "aladag", "Ceyhan", "ceyhan", "Çukurova", "cukurova", "Feke", "feke", "İmamoğlu", "imamoglu"
+        "ilceAd": "Aladağ", 
+        "ilceSlug": "aladag", 
       ]
   }
 ]
