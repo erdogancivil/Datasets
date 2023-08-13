@@ -2,7 +2,8 @@
   {
     "SehirAd":"Adana",
     "SehirSlug":"adana",
-    "Ilceler": [
+    "Ilceler": 
+    [
       {
         "ilceAd": "Aladağ",
         "ilceSlug": "aladag"
@@ -68,7 +69,8 @@
   {
     "SehirAd":"Adıyaman",
     "SehirSlug":"adiyaman",
-    "Ilceler": [
+    "Ilceler": 
+    [
       {
         "ilceAd": "Besni",
         "ilceSlug": "besni"
@@ -110,7 +112,8 @@
   {
     "SehirAd":"Afyonkarahisar",
     "SehirSlug":"afyonkarahisar",
-    "Ilceler": [
+    "Ilceler": 
+    [
       {
         "ilceAd": "Başmakçı",
         "ilceSlug": "basmakci"
@@ -188,7 +191,8 @@
   {
     "SehirAd":"Ağrı",
     "SehirSlug":"agri",
-    "Ilceler": [
+    "Ilceler": 
+    [
       {
         "ilceAd": "Diyadin",
         "ilceSlug": "diyadin"
@@ -226,7 +230,8 @@
   {
     "SehirAd":"Ağrı",
     "SehirSlug":"agri",
-    "Ilceler": [
+    "Ilceler": 
+    [
       {
         "ilceAd": "Ağaçören",
         "ilceSlug": "agacoren"
