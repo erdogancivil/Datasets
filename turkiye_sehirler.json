@@ -1,8 +1,8 @@
 [
   {
-    "SehirAd":"Adana",
-    "SehirSlug":"adana",
-    "Ilceler":
+    "sehirAd":"Adana",
+    "sehirSlug":"adana",
+    "ilceler":
       [
         {
           "ilceAd": "Aladağ",
