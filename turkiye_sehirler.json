@@ -5,7 +5,7 @@
     "sehirSlug":"adana",
     "ilceler":
     [
-      {"sehirId": "1", "ilceAd": "Aladağ", "ilceSlug": "aladag"}, {"sehirId": "1", "ilceAd": "Ceyhan", "ilceSlug": "ceyhan"}, {"sehirId": "1", "ilceAd": "Çukurova", "ilceSlug": "cukurova"}, {"sehirId": "1", "ilceAd": "Feke", "ilceSlug": "feke"}, {"sehirId": "1", "ilceAd": "İmamoğlu", "ilceSlug": "imamoglu"}, {"sehirId": "1", "ilceAd": "Karaisalı", "ilceSlug": "karaisali"}, {"sehirId": "1", "ilceAd": "Karataş", "ilceSlug": "karatas"}, {"sehirId": "1", "ilceAd": "Kozan", "ilceSlug": "kozan"}, {"sehirId": "1", "ilceAd": "Pozantı", "ilceSlug": "pozanti"}, {"sehirId": "1", "ilceAd": "Saimbeyli", "ilceSlug": "saimbeyli"}, {"sehirId": "1", "ilceAd": "Sarıçam", "ilceSlug": "saricam"}, {"sehirId": "1", "ilceAd": "Seyhan", "ilceSlug": "seyhan"}, {"sehirId": "1", "ilceAd": "Tufanbeyli", "ilceSlug": "tufanbeyli"}, {"sehirId": "1", "ilceAd": "Yumurtalık", "ilceSlug": "yumurtalik"}, {"sehirId": "1", "ilceAd": "Yüreğir", "ilceSlug": "yuregir"}
+     {"sehirId": "1", "ilceAd": "Aladağ", "ilceSlug": "aladag"}, {"sehirId": "1", "ilceAd": "Ceyhan", "ilceSlug": "ceyhan"}, {"sehirId": "1", "ilceAd": "Çukurova", "ilceSlug": "cukurova"}, {"sehirId": "1", "ilceAd": "Feke", "ilceSlug": "feke"}, {"sehirId": "1", "ilceAd": "İmamoğlu", "ilceSlug": "imamoglu"}, {"sehirId": "1", "ilceAd": "Karaisalı", "ilceSlug": "karaisali"}, {"sehirId": "1", "ilceAd": "Karataş", "ilceSlug": "karatas"}, {"sehirId": "1", "ilceAd": "Kozan", "ilceSlug": "kozan"}, {"sehirId": "1", "ilceAd": "Pozantı", "ilceSlug": "pozanti"}, {"sehirId": "1", "ilceAd": "Saimbeyli", "ilceSlug": "saimbeyli"}, {"sehirId": "1", "ilceAd": "Sarıçam", "ilceSlug": "saricam"}, {"sehirId": "1", "ilceAd": "Seyhan", "ilceSlug": "seyhan"}, {"sehirId": "1", "ilceAd": "Tufanbeyli", "ilceSlug": "tufanbeyli"}, {"sehirId": "1", "ilceAd": "Yumurtalık", "ilceSlug": "yumurtalik"}, {"sehirId": "1", "ilceAd": "Yüreğir", "ilceSlug": "yuregir"}
     ]
   },
   {
@@ -14,7 +14,7 @@
     "sehirSlug":"adiyaman",
     "ilceler":
     [
-      {"sehirId": "2", "ilceAd": "Besni", "ilceSlug": "besni"}, {"sehirId": "2", "ilceAd": "Çelikhan", "ilceSlug": "celikhan"}, {"sehirId": "2", "ilceAd": "Gerger", "ilceSlug": "gerger"}, {"sehirId": "2", "ilceAd": "Gölbaşı", "ilceSlug": "golbasi"}, {"sehirId": "2", "ilceAd": "Kahta", "ilceSlug": "kahta"}, {"sehirId": "2", "IlceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "2", "ilceAd": "Samsat", "ilceSlug": "samsat"}, {"sehirId": "2", "ilceAd": "Sincik", "ilceSlug": "sincik"}, {"sehirId": "2", "ilceAd": "Tut", "ilceSlug": "tut"}
+     {"sehirId": "2", "ilceAd": "Besni", "ilceSlug": "besni"}, {"sehirId": "2", "ilceAd": "Çelikhan", "ilceSlug": "celikhan"}, {"sehirId": "2", "ilceAd": "Gerger", "ilceSlug": "gerger"}, {"sehirId": "2", "ilceAd": "Gölbaşı", "ilceSlug": "golbasi"}, {"sehirId": "2", "ilceAd": "Kahta", "ilceSlug": "kahta"}, {"sehirId": "2", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "2", "ilceAd": "Samsat", "ilceSlug": "samsat"}, {"sehirId": "2", "ilceAd": "Sincik", "ilceSlug": "sincik"}, {"sehirId": "2", "ilceAd": "Tut", "ilceSlug": "tut"}
     ]
   },
   {
@@ -23,7 +23,7 @@
     "sehirSlug":"afyonkarahisar",
     "ilceler":
     [
-      {"sehirId": "3", "ilceAd": "Başmakçı", "ilceSlug": "basmakci"}, {"sehirId": "3", "ilceAd": "Bayat", "ilceSlug": "bayat"}, {"sehirId": "3", "ilceAd": "Bolvadin", "ilceSlug": "bolvadin"}, {"sehirId": "3", "ilceAd": "Çay", "ilceSlug": "cay"}, {"sehirId": "3", "ilceAd": "Çobanlar", "ilceSlug": "cobanlar"}, {"sehirId": "3", "ilceAd": "Dazkırı", "ilceSlug": "dazkiri"}, {"sehirId": "3", "ilceAd": "Dinar", "ilceSlug": "dinar"}, {"sehirId": "3", "ilceAd": "Emirdağ", "ilceSlug": "emirdag"}, {"sehirId": "3", "ilceAd": "Evciler", "ilceSlug": "evciler"}, {"sehirId": "3", "ilceAd": "Hocalar", "ilceSlug": "hocalar"}, {"sehirId": "3", "ilceAd": "İhsaniye", "ilceSlug": "ihsaniye"}, {"sehirId": "3", "ilceAd": "İscehisar", "ilceSlug": "iscehisar"}, {"sehirId": "3", "ilceAd": "Kızılören", "ilceSlug": "kiziloren"}, {"sehirId": "3", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "3", "ilceAd": "Sandıklı", "ilceSlug": "sandikli"}, {"sehirId": "3", "ilceAd": "Sinanpaşa", "ilceSlug": "sinanpasa"}, {"sehirId": "3", "ilceAd": "Sultandağı", "ilceSlug": "sultandagi"}, {"sehirId": "3", "ilceAd": "Şuhut", "ilceSlug": "suhut"}
+     {"sehirId": "3", "ilceAd": "Başmakçı", "ilceSlug": "basmakci"}, {"sehirId": "3", "ilceAd": "Bayat", "ilceSlug": "bayat"}, {"sehirId": "3", "ilceAd": "Bolvadin", "ilceSlug": "bolvadin"}, {"sehirId": "3", "ilceAd": "Çay", "ilceSlug": "cay"}, {"sehirId": "3", "ilceAd": "Çobanlar", "ilceSlug": "cobanlar"}, {"sehirId": "3", "ilceAd": "Dazkırı", "ilceSlug": "dazkiri"}, {"sehirId": "3", "ilceAd": "Dinar", "ilceSlug": "dinar"}, {"sehirId": "3", "ilceAd": "Emirdağ", "ilceSlug": "emirdag"}, {"sehirId": "3", "ilceAd": "Evciler", "ilceSlug": "evciler"}, {"sehirId": "3", "ilceAd": "Hocalar", "ilceSlug": "hocalar"}, {"sehirId": "3", "ilceAd": "İhsaniye", "ilceSlug": "ihsaniye"}, {"sehirId": "3", "ilceAd": "İscehisar", "ilceSlug": "iscehisar"}, {"sehirId": "3", "ilceAd": "Kızılören", "ilceSlug": "kiziloren"}, {"sehirId": "3", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "3", "ilceAd": "Sandıklı", "ilceSlug": "sandikli"}, {"sehirId": "3", "ilceAd": "Sinanpaşa", "ilceSlug": "sinanpasa"}, {"sehirId": "3", "ilceAd": "Sultandağı", "ilceSlug": "sultandagi"}, {"sehirId": "3", "ilceAd": "Şuhut", "ilceSlug": "suhut"}
     ]
   },
   {
@@ -33,6 +33,15 @@
     "ilceler":
     [
      {"sehirId": "4", "ilceAd": "Diyadin", "ilceSlug": "diyadin"}, {"sehirId": "4", "ilceAd": "Doğubeyazıt", "ilceSlug": "dogubeyazit"}, {"sehirId": "4", "ilceAd": "Eleşkirt", "ilceSlug": "eleskirt"}, {"sehirId": "4", "ilceAd": "Hamur", "ilceSlug": "hamur"}, {"sehirId": "4", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "4", "ilceAd": "Patnos", "ilceSlug": "patnos"}, {"sehirId": "4", "ilceAd": "Taşlıçay", "ilceSlug": "taslicay"}, {"sehirId": "4", "ilceAd": "Tutak", "ilceSlug": "tutak"}
+    ]
+  },
+  {
+    "id":"68",
+    "sehirAd":"Aksaray",
+    "sehirSlug":"aksaray",
+    "ilceler":
+    [
+     {"sehirId": "68", "ilceAd": "Ağaçören", "ilceSlug": "agacoren"}, {"sehirId": "68", "ilceAd": "Eskil", "ilceSlug": "eskil"}, {"sehirId": "68", "ilceAd": "Gülağaç", "ilceSlug": "gulagac"}, {"sehirId": "68", "ilceAd": "Güzelyurt", "ilceSlug": "guzelyurt"}, {"sehirId": "68", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "68", "ilceAd": "Ortaköy", "ilceSlug": "ortakoy"}, {"sehirId": "68", "ilceAd": "Sarıyahşi", "ilceSlug": "sariyahsi"}, {"sehirId": "68", "ilceAd": "Sultanhanı", "ilceSlug": "sultanhani"}
     ]
   },
   {
@@ -177,6 +186,555 @@
     "ilceler":
     [
      {"sehirId": "16", "ilceAd": "Büyükorhan", "ilceSlug": "buyukorhan"}, {"sehirId": "16", "ilceAd": "Gemlik", "ilceSlug": "gemlik"}, {"sehirId": "16", "ilceAd": "Gürsu", "ilceSlug": "gursu"}, {"sehirId": "16", "ilceAd": "Harmancık", "ilceSlug": "harmancik"}, {"sehirId": "16", "ilceAd": "İnegöl", "ilceSlug": "inegol"}, {"sehirId": "16", "ilceAd": "İznik", "ilceSlug": "iznik"}, {"sehirId": "16", "ilceAd": "Karacabey", "ilceSlug": "karacabey"}, {"sehirId": "16", "ilceAd": "Keles", "ilceSlug": "keles"}, {"sehirId": "16", "ilceAd": "Kestel", "ilceSlug": "kestel"}, {"sehirId": "16", "ilceAd": "Mudanya", "ilceSlug": "mudanya"}, {"sehirId": "16", "ilceAd": "Mustafakemalpaşa", "ilceSlug": "mustafakemalpasa"}, {"sehirId": "16", "ilceAd": "Nilüfer", "ilceSlug": "nilufer"}, {"sehirId": "16", "ilceAd": "Orhaneli", "ilceSlug": "orhaneli"}, {"sehirId": "16", "ilceAd": "Orhangazi", "ilceSlug": "orhangazi"}, {"sehirId": "16", "ilceAd": "Osmangazi", "ilceSlug": "osmangazi"}, {"sehirId": "16", "ilceAd": "Yenişehir", "ilceSlug": "yenisehir"}, {"sehirId": "16", "ilceAd": "Yıldırım", "ilceSlug": "yildirim"}
+    ]
+  },
+  {
+    "id":"17",
+    "sehirAd":"Çanakkale",
+    "sehirSlug":"canakkale",
+    "ilceler":
+    [
+     {"sehirId": "17", "ilceAd": "Ayvacık", "ilceSlug": "ayvacik"}, {"sehirId": "17", "ilceAd": "Bayramiç", "ilceSlug": "bayramic"}, {"sehirId": "17", "ilceAd": "Biga", "ilceSlug": "biga"}, {"sehirId": "17", "ilceAd": "Bozcaada", "ilceSlug": "bozcaada"}, {"sehirId": "17", "ilceAd": "Çan", "ilceSlug": "can"}, {"sehirId": "17", "ilceAd": "Eceabat", "ilceSlug": "eceabat"}, {"sehirId": "17", "ilceAd": "Ezine", "ilceSlug": "ezine"}, {"sehirId": "17", "ilceAd": "Gelibolu", "ilceSlug": "gelibolu"}, {"sehirId": "17", "ilceAd": "Gökçeada", "ilceSlug": "gokceada"}, {"sehirId": "17", "ilceAd": "Lapseki", "ilceSlug": "lapseki"}, {"sehirId": "17", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "17", "ilceAd": "Yenice", "ilceSlug": "yenice"}
+    ]
+  },
+  {
+    "id":"18",
+    "sehirAd":"Çankırı",
+    "sehirSlug":"cankiri",
+    "ilceler":
+    [
+     {"sehirId": "18", "ilceAd": "Atkaracalar", "ilceSlug": "atkaracalar"}, {"sehirId": "18", "ilceAd": "Bayramören", "ilceSlug": "bayramoren"}, {"sehirId": "18", "ilceAd": "Çerkeş", "ilceSlug": "cerkes"}, {"sehirId": "18", "ilceAd": "Eldivan", "ilceSlug": "eldivan"}, {"sehirId": "18", "ilceAd": "Ilgaz", "ilceSlug": "ilgaz"}, {"sehirId": "18", "ilceAd": "Kızılırmak", "ilceSlug": "kizilirmak"}, {"sehirId": "18", "ilceAd": "Korgun", "ilceSlug": "korgun"}, {"sehirId": "18", "ilceAd": "Kurşunlu", "ilceSlug": "kursunlu"}, {"sehirId": "18", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "18", "ilceAd": "Orta", "ilceSlug": "orta"}, {"sehirId": "18", "ilceAd": "Şabanözü", "ilceSlug": "sabanozu"}, {"sehirId": "18", "ilceAd": "Yapraklı", "ilceSlug": "yaprakli"}
+    ]
+  },
+  {
+    "id":"19",
+    "sehirAd":"Çorum",
+    "sehirSlug":"corum",
+    "ilceler":
+    [
+     {"sehirId": "19", "ilceAd": "Alaca", "ilceSlug": "alaca"}, {"sehirId": "19", "ilceAd": "Bayat", "ilceSlug": "bayat"}, {"sehirId": "19", "ilceAd": "Boğazkale", "ilceSlug": "bogazkale"}, {"sehirId": "19", "ilceAd": "Dodurga", "ilceSlug": "dodurga"}, {"sehirId": "19", "ilceAd": "İskilip", "ilceSlug": "iskilip"}, {"sehirId": "19", "ilceAd": "Kargı", "ilceSlug": "kargi"}, {"sehirId": "19", "ilceAd": "Laçin", "ilceSlug": "lacin"}, {"sehirId": "19", "ilceAd": "Mecitözü", "ilceSlug": "mecitozu"}, {"sehirId": "19", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "19", "ilceAd": "Oğuzlar", "ilceSlug": "oguzlar"}, {"sehirId": "19", "ilceAd": "Ortaköy", "ilceSlug": "ortakoy"}, {"sehirId": "19", "ilceAd": "Osmancık", "ilceSlug": "osmancik"}, {"sehirId": "19", "ilceAd": "Sungurlu", "ilceSlug": "sungurlu"}, {"sehirId": "19", "ilceAd": "Uğurludağ", "ilceSlug": "ugurludag"}
+    ]
+  },
+  {
+    "id":"20",
+    "sehirAd":"Denizli",
+    "sehirSlug":"denizli",
+    "ilceler":
+    [
+     {"sehirId": "20", "ilceAd": "Acıpayam", "ilceSlug": "acipayam"}, {"sehirId": "20", "ilceAd": "Babadağ", "ilceSlug": "babadag"}, {"sehirId": "20", "ilceAd": "Baklan", "ilceSlug": "baklan"}, {"sehirId": "20", "ilceAd": "Bekilli", "ilceSlug": "bekilli"}, {"sehirId": "20", "ilceAd": "Beyağaç", "ilceSlug": "beyagac"}, {"sehirId": "20", "ilceAd": "Bozkurt", "ilceSlug": "bozkurt"}, {"sehirId": "20", "ilceAd": "Buldan", "ilceSlug": "buldan"}, {"sehirId": "20", "ilceAd": "Çal", "ilceSlug": "cal"}, {"sehirId": "20", "ilceAd": "Çameli", "ilceSlug": "cameli"}, {"sehirId": "20", "ilceAd": "Çardak", "ilceSlug": "cardak"}, {"sehirId": "20", "ilceAd": "Çivril", "ilceSlug": "civril"}, {"sehirId": "20", "ilceAd": "Güney", "ilceSlug": "guney"}, {"sehirId": "20", "ilceAd": "Honaz", "ilceSlug": "honaz"}, {"sehirId": "20", "ilceAd": "Kale", "ilceSlug": "kale"}, {"sehirId": "20", "ilceAd": "Merkezefendi", "ilceSlug": "merkezefendi"}, {"sehirId": "20", "ilceAd": "Pamukkale", "ilceSlug": "pamukkale"}, {"sehirId": "20", "ilceAd": "Sarayköy", "ilceSlug": "saraykoy"}, {"sehirId": "20", "ilceAd": "Serinhisar", "ilceSlug": "serinhisar"}, {"sehirId": "20", "ilceAd": "Tavas", "ilceSlug": "tavas"}
+    ]
+  },
+  {
+    "id":"21",
+    "sehirAd":"Diyarbakır",
+    "sehirSlug":"diyarbakir",
+    "ilceler":
+    [
+     {"sehirId": "21", "ilceAd": "Bağlar", "ilceSlug": "baglar"}, {"sehirId": "21", "ilceAd": "Bismil", "ilceSlug": "bismil"}, {"sehirId": "21", "ilceAd": "Çermik", "ilceSlug": "cermik"}, {"sehirId": "21", "ilceAd": "Çınar", "ilceSlug": "cinar"}, {"sehirId": "21", "ilceAd": "Çüngüş", "ilceSlug": "cungus"}, {"sehirId": "21", "ilceAd": "Dicle", "ilceSlug": "dicle"}, {"sehirId": "21", "ilceAd": "Eğil", "ilceSlug": "egil"}, {"sehirId": "21", "ilceAd": "Ergani", "ilceSlug": "ergani"}, {"sehirId": "21", "ilceAd": "Hani", "ilceSlug": "hani"}, {"sehirId": "21", "ilceAd": "Hazro", "ilceSlug": "hazro"}, {"sehirId": "21", "ilceAd": "Kayapınar", "ilceSlug": "kayapinar"}, {"sehirId": "21", "ilceAd": "Kocaköy", "ilceSlug": "kocakoy"}, {"sehirId": "21", "ilceAd": "Kulp", "ilceSlug": "kulp"}, {"sehirId": "21", "ilceAd": "Lice", "ilceSlug": "lice"}, {"sehirId": "21", "ilceAd": "Silvan", "ilceSlug": "silvan"}, {"sehirId": "21", "ilceAd": "Sur", "ilceSlug": "sur"}, {"sehirId": "21", "ilceAd": "Yenişehir", "ilceSlug": "yenisehir"}, {"sehirId": "21", "ilceAd": "Merkez", "ilceSlug": "merkez"}
+    ]
+  },
+  {
+    "id":"81",
+    "sehirAd":"Düzce",
+    "sehirSlug":"duzce",
+    "ilceler":
+    [
+     {"sehirId": "81", "ilceAd": "Akçakoca", "ilceSlug": "akcakoca"}, {"sehirId": "81", "ilceAd": "Cumayeri", "ilceSlug": "cumayeri"}, {"sehirId": "81", "ilceAd": "Çilimli", "ilceSlug": "cilimli"}, {"sehirId": "81", "ilceAd": "Gölyaka", "ilceSlug": "golyaka"}, {"sehirId": "81", "ilceAd": "Gümüşova", "ilceSlug": "gumusova"}, {"sehirId": "81", "ilceAd": "Kaynaşlı", "ilceSlug": "kaynasli"}, {"sehirId": "81", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "81", "ilceAd": "Yığılca", "ilceSlug": "yigilca"}
+    ]
+  },
+  {
+    "id":"22",
+    "sehirAd":"Edirne",
+    "sehirSlug":"edirne",
+    "ilceler":
+    [
+     {"sehirId": "22", "ilceAd": "Enez", "ilceSlug": "enez"}, {"sehirId": "22", "ilceAd": "Havsa", "ilceSlug": "havsa"}, {"sehirId": "22", "ilceAd": "İpsala", "ilceSlug": "ipsala"}, {"sehirId": "22", "ilceAd": "Keşan", "ilceSlug": "kesan"}, {"sehirId": "22", "ilceAd": "Lalapaşa", "ilceSlug": "lalapasa"}, {"sehirId": "22", "ilceAd": "Meriç", "ilceSlug": "meric"}, {"sehirId": "22", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "22", "ilceAd": "Süloğlu", "ilceSlug": "suloglu"}, {"sehirId": "22", "ilceAd": "Uzunköprü", "ilceSlug": "uzunkopru"}
+    ]
+  },
+  {
+    "id":"23",
+    "sehirAd":"Elazığ",
+    "sehirSlug":"elazig",
+    "ilceler":
+    [
+     {"sehirId": "23", "ilceAd": "Ağın", "ilceSlug": "agin"}, {"sehirId": "23", "ilceAd": "Alacakaya", "ilceSlug": "alacakaya"}, {"sehirId": "23", "ilceAd": "Arıcak", "ilceSlug": "aricak"}, {"sehirId": "23", "ilceAd": "Baskil", "ilceSlug": "baskil"}, {"sehirId": "23", "ilceAd": "Karakoçan", "ilceSlug": "karakocan"}, {"sehirId": "23", "ilceAd": "Keban", "ilceSlug": "keban"}, {"sehirId": "23", "ilceAd": "Kovancılar", "ilceSlug": "kovancilar"}, {"sehirId": "23", "ilceAd": "Maden", "ilceSlug": "maden"}, {"sehirId": "23", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "23", "ilceAd": "Palu", "ilceSlug": "palu"}, {"sehirId": "23", "ilceAd": "Sivrice", "ilceSlug": "sivrice"}
+    ]
+  },
+  {
+    "id":"24",
+    "sehirAd":"Erzincan",
+    "sehirSlug":"erzincan",
+    "ilceler":
+    [
+     {"sehirId": "24", "ilceAd": "Çayırlı", "ilceSlug": "cayirli"}, {"sehirId": "24", "ilceAd": "İliç", "ilceSlug": "ilic"}, {"sehirId": "24", "ilceAd": "Kemah", "ilceSlug": "kemah"}, {"sehirId": "24", "ilceAd": "Kemaliye", "ilceSlug": "kemaliye"}, {"sehirId": "24", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "24", "ilceAd": "Otlukbeli", "ilceSlug": "otlukbeli"}, {"sehirId": "24", "ilceAd": "Refahiye", "ilceSlug": "refahiye"}, {"sehirId": "24", "ilceAd": "Tercan", "ilceSlug": "tercan"}, {"sehirId": "24", "ilceAd": "Üzümlü", "ilceSlug": "uzumlu"}
+    ]
+  },
+  {
+    "id":"25",
+    "sehirAd":"Erzurum",
+    "sehirSlug":"erzurum",
+    "ilceler":
+    [
+     {"sehirId": "25", "ilceAd": "Aşkale", "ilceSlug": "askale"}, {"sehirId": "25", "ilceAd": "Aziziye", "ilceSlug": "aziziye"}, {"sehirId": "25", "ilceAd": "Çat", "ilceSlug": "cat"}, {"sehirId": "25", "ilceAd": "Hınıs", "ilceSlug": "hinis"}, {"sehirId": "25", "ilceAd": "Horasan", "ilceSlug": "horasan"}, {"sehirId": "25", "ilceAd": "İspir", "ilceSlug": "ispir"}, {"sehirId": "25", "ilceAd": "Karaçoban", "ilceSlug": "karacoban"}, {"sehirId": "25", "ilceAd": "Karayazı", "ilceSlug": "karayazi"}, {"sehirId": "25", "ilceAd": "Köprüköy", "ilceSlug": "koprukoy"}, {"sehirId": "25", "ilceAd": "Narman", "ilceSlug": "narman"}, {"sehirId": "25", "ilceAd": "Oltu", "ilceSlug": "oltu"}, {"sehirId": "25", "ilceAd": "Olur", "ilceSlug": "olur"}, {"sehirId": "25", "ilceAd": "Palandöken", "ilceSlug": "palandoken"}, {"sehirId": "25", "ilceAd": "Pasinler", "ilceSlug": "pasinler"}, {"sehirId": "25", "ilceAd": "Pazaryolu", "ilceSlug": "pazaryolu"}, {"sehirId": "25", "ilceAd": "Şenkaya", "ilceSlug": "senkaya"}, {"sehirId": "25", "ilceAd": "Tekman", "ilceSlug": "tekman"}, {"sehirId": "25", "ilceAd": "Tortum", "ilceSlug": "tortum"}, {"sehirId": "25", "ilceAd": "Uzundere", "ilceSlug": "uzundere"}, {"sehirId": "25", "ilceAd": "Yakutiye", "ilceSlug": "yakutiye"}
+    ]
+  },
+  {
+    "id":"26",
+    "sehirAd":"Eskişehir",
+    "sehirSlug":"eskisehir",
+    "ilceler":
+    [
+     {"sehirId": "26", "ilceAd": "Alpu", "ilceSlug": "alpu"}, {"sehirId": "26", "ilceAd": "Beylikova", "ilceSlug": "beylikova"}, {"sehirId": "26", "ilceAd": "Çifteler", "ilceSlug": "cifteler"}, {"sehirId": "26", "ilceAd": "Günyüzü", "ilceSlug": "gunyuzu"}, {"sehirId": "26", "ilceAd": "Han", "ilceSlug": "han"}, {"sehirId": "26", "ilceAd": "İnönü", "ilceSlug": "inonu"}, {"sehirId": "26", "ilceAd": "Mahmudiye", "ilceSlug": "mahmudiye"}, {"sehirId": "26", "ilceAd": "Mihalgazi", "ilceSlug": "mihalgazi"}, {"sehirId": "26", "ilceAd": "Mihalıççık", "ilceSlug": "mihaliccik"}, {"sehirId": "26", "ilceAd": "Odunpazarı", "ilceSlug": "odunpazari"}, {"sehirId": "26", "ilceAd": "Sarıcakaya", "ilceSlug": "saricakaya"}, {"sehirId": "26", "ilceAd": "Seyitgazi", "ilceSlug": "seyitgazi"}, {"sehirId": "26", "ilceAd": "Sivrihisar", "ilceSlug": "sivrihisar"}, {"sehirId": "26", "ilceAd": "Tepebaşı", "ilceSlug": "tepebasi"}
+    ]
+  },
+  {
+    "id":"27",
+    "sehirAd":"Gaziantep",
+    "sehirSlug":"gaziantep",
+    "ilceler":
+    [
+     {"sehirId": "27", "ilceAd": "Araban", "ilceSlug": "araban"}, {"sehirId": "27", "ilceAd": "İslahiye", "ilceSlug": "islahiye"}, {"sehirId": "27", "ilceAd": "Karkamış", "ilceSlug": "karkamis"}, {"sehirId": "27", "ilceAd": "Nizip", "ilceSlug": "nizip"}, {"sehirId": "27", "ilceAd": "Nurdağı", "ilceSlug": "nurdagi"}, {"sehirId": "27", "ilceAd": "Oğuzeli", "ilceSlug": "oguzeli"}, {"sehirId": "27", "ilceAd": "Şahinbey", "ilceSlug": "sahinbey"}, {"sehirId": "27", "ilceAd": "Şehitkamil", "ilceSlug": "sehitkamil"}, {"sehirId": "27", "ilceAd": "Yavuzeli", "ilceSlug": "yavuzeli"}
+    ]
+  },
+  {
+    "id":"28",
+    "sehirAd":"Giresun",
+    "sehirSlug":"giresun",
+    "ilceler":
+    [
+     {"sehirId": "28", "ilceAd": "Alucra", "ilceSlug": "alucra"}, {"sehirId": "28", "ilceAd": "Bulancak", "ilceSlug": "bulancak"}, {"sehirId": "28", "ilceAd": "Çamoluk", "ilceSlug": "camoluk"}, {"sehirId": "28", "ilceAd": "Çanakçı", "ilceSlug": "canakci"}, {"sehirId": "28", "ilceAd": "Dereli", "ilceSlug": "dereli"}, {"sehirId": "28", "ilceAd": "Doğankent", "ilceSlug": "dogankent"}, {"sehirId": "28", "ilceAd": "Espiye", "ilceSlug": "espiye"}, {"sehirId": "28", "ilceAd": "Eynesil", "ilceSlug": "eynesil"}, {"sehirId": "28", "ilceAd": "Görele", "ilceSlug": "gorele"}, {"sehirId": "28", "ilceAd": "Güce", "ilceSlug": "guce"}, {"sehirId": "28", "ilceAd": "Keşap", "ilceSlug": "kesap"}, {"sehirId": "28", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "28", "ilceAd": "Piraziz", "ilceSlug": "piraziz"}, {"sehirId": "28", "ilceAd": "Şebinkarahisar", "ilceSlug": "sebinkarahisar"}, {"sehirId": "28", "ilceAd": "Tirebolu", "ilceSlug": "tirebolu"}, {"sehirId": "28", "ilceAd": "Yağlıdere", "ilceSlug": "yaglidere"}
+    ]
+  },
+  {
+    "id":"29",
+    "sehirAd":"Gümüşhane",
+    "sehirSlug":"gumushane",
+    "ilceler":
+    [
+     {"sehirId": "29", "ilceAd": "Kelkit", "ilceSlug": "kelkit"}, {"sehirId": "29", "ilceAd": "Köse", "ilceSlug": "kose"}, {"sehirId": "29", "ilceAd": "Kürtün", "ilceSlug": "kurtun"}, {"sehirId": "29", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "29", "ilceAd": "Şiran", "ilceSlug": "siran"}, {"sehirId": "29", "ilceAd": "Torul", "ilceSlug": "torul"}
+    ]
+  },
+  {
+    "id":"30",
+    "sehirAd":"Hakkari",
+    "sehirSlug":"hakkari",
+    "ilceler":
+    [
+     {"sehirId": "30", "ilceAd": "Çukurca", "ilceSlug": "cukurca"}, {"sehirId": "30", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "30", "ilceAd": "Şemdinli", "ilceSlug": "semdinli"}, {"sehirId": "30", "ilceAd": "Yüksekova", "ilceSlug": "yuksekova"}
+    ]
+  },
+  {
+    "id":"31",
+    "sehirAd":"Hatay",
+    "sehirSlug":"hatay",
+    "ilceler":
+    [
+     {"sehirId": "31", "ilceAd": "Altınözü", "ilceSlug": "altinozu"}, {"sehirId": "31", "ilceAd": "Antakya"Defne", "ilceSlug": "antakya"defne"}, {"sehirId": "31", "ilceAd": "Arsuz", "ilceSlug": "arsuz"}, {"sehirId": "31", "ilceAd": "Belen", "ilceSlug": "belen"}, {"sehirId": "31", "ilceAd": "Dörtyol", "ilceSlug": "dortyol"}, {"sehirId": "31", "ilceAd": "Erzin", "ilceSlug": "erzin"}, {"sehirId": "31", "ilceAd": "Hassa", "ilceSlug": "hassa"}, {"sehirId": "31", "ilceAd": "İskenderun", "ilceSlug": "iskenderun"}, {"sehirId": "31", "ilceAd": "Kırıkhan", "ilceSlug": "kirikhan"}, {"sehirId": "31", "ilceAd": "Kumlu", "ilceSlug": "kumlu"}, {"sehirId": "31", "ilceAd": "Payas", "ilceSlug": "payas"}, {"sehirId": "31", "ilceAd": "Reyhanlı", "ilceSlug": "reyhanli"}, {"sehirId": "31", "ilceAd": "Samandağ", "ilceSlug": "samandag"}, {"sehirId": "31", "ilceAd": "Yayladağı", "ilceSlug": "yayladagi"}
+    ]
+  },
+  {
+    "id":"76",
+    "sehirAd":"Iğdır",
+    "sehirSlug":"igdir",
+    "ilceler":
+    [
+     {"sehirId": "76", "ilceAd": "Aralık", "ilceSlug": "aralik"}, {"sehirId": "76", "ilceAd": "Karakoyunlu", "ilceSlug": "karakoyunlu"}, {"sehirId": "76", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "76", "ilceAd": "Tuzluca", "ilceSlug": "tuzluca"}
+    ]
+  },
+  {
+    "id":"32",
+    "sehirAd":"Isparta",
+    "sehirSlug":"isparta",
+    "ilceler":
+    [
+     {"sehirId": "32", "ilceAd": "Aksu", "ilceSlug": "aksu"}, {"sehirId": "32", "ilceAd": "Atabey", "ilceSlug": "atabey"}, {"sehirId": "32", "ilceAd": "Eğirdir", "ilceSlug": "egirdir"}, {"sehirId": "32", "ilceAd": "Gelendost", "ilceSlug": "gelendost"}, {"sehirId": "32", "ilceAd": "Gönen", "ilceSlug": "gonen"}, {"sehirId": "32", "ilceAd": "Keçiborlu", "ilceSlug": "keciborlu"}, {"sehirId": "32", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "32", "ilceAd": "Senirkent", "ilceSlug": "senirkent"}, {"sehirId": "32", "ilceAd": "Sütçüler", "ilceSlug": "sutculer"}, {"sehirId": "32", "ilceAd": "Şarkikaraağaç", "ilceSlug": "sarkikaraagac"}, {"sehirId": "32", "ilceAd": "Uluborlu", "ilceSlug": "uluborlu"}, {"sehirId": "32", "ilceAd": "Yalvaç", "ilceSlug": "yalvac"}, {"sehirId": "32", "ilceAd": "Yenişarbademli", "ilceSlug": "yenisarbademli"}
+    ]
+  },
+  {
+    "id":"34",
+    "sehirAd":"İstanbul",
+    "sehirSlug":"istanbul",
+    "ilceler":
+    [
+     {"sehirId": "34", "ilceAd": "Adalar", "ilceSlug": "adalar"}, {"sehirId": "34", "ilceAd": "Arnavutköy", "ilceSlug": "arnavutkoy"}, {"sehirId": "34", "ilceAd": "Ataşehir", "ilceSlug": "atasehir"}, {"sehirId": "34", "ilceAd": "Avcılar", "ilceSlug": "avcilar"}, {"sehirId": "34", "ilceAd": "Bağcılar", "ilceSlug": "bagcilar"}, {"sehirId": "34", "ilceAd": "Bahçelievler", "ilceSlug": "bahcelievler"}, {"sehirId": "34", "ilceAd": "Bakırköy", "ilceSlug": "bakirkoy"}, {"sehirId": "34", "ilceAd": "Başakşehir", "ilceSlug": "basaksehir"}, {"sehirId": "34", "ilceAd": "Bayrampaşa", "ilceSlug": "bayrampasa"}, {"sehirId": "34", "ilceAd": "Beşiktaş", "ilceSlug": "besiktas"}, {"sehirId": "34", "ilceAd": "Beykoz", "ilceSlug": "beykoz"}, {"sehirId": "34", "ilceAd": "Beylikdüzü", "ilceSlug": "beylikduzu"}, {"sehirId": "34", "ilceAd": "Beyoğlu", "ilceSlug": "beyoglu"}, {"sehirId": "34", "ilceAd": "Büyükçekmece", "ilceSlug": "buyukcekmece"}, {"sehirId": "34", "ilceAd": "Çatalca", "ilceSlug": "catalca"}, {"sehirId": "34", "ilceAd": "Çekmeköy", "ilceSlug": "cekmekoy"}, {"sehirId": "34", "ilceAd": "Esenler", "ilceSlug": "esenler"}, {"sehirId": "34", "ilceAd": "Esenyurt", "ilceSlug": "esenyurt"}, {"sehirId": "34", "ilceAd": "Eyüp", "ilceSlug": "eyup"}, {"sehirId": "34", "ilceAd": "Fatih", "ilceSlug": "fatih"}, {"sehirId": "34", "ilceAd": "Gaziosmanpaşa", "ilceSlug": "gaziosmanpasa"}, {"sehirId": "34", "ilceAd": "Güngören", "ilceSlug": "gungoren"}, {"sehirId": "34", "ilceAd": "Kadıköy", "ilceSlug": "kadikoy"}, {"sehirId": "34", "ilceAd": "Kağıthane", "ilceSlug": "kagithane"}, {"sehirId": "34", "ilceAd": "Kartal", "ilceSlug": "kartal"}, {"sehirId": "34", "ilceAd": "Küçükçekmece", "ilceSlug": "kucukcekmece"}, {"sehirId": "34", "ilceAd": "Maltepe", "ilceSlug": "maltepe"}, {"sehirId": "34", "ilceAd": "Pendik", "ilceSlug": "pendik"}, {"sehirId": "34", "ilceAd": "Sancaktepe", "ilceSlug": "sancaktepe"}, {"sehirId": "34", "ilceAd": "Sarıyer", "ilceSlug": "sariyer"}, {"sehirId": "34", "ilceAd": "Silivri", "ilceSlug": "silivri"}, {"sehirId": "34", "ilceAd": "Sultanbeyli", "ilceSlug": "sultanbeyli"}, {"sehirId": "34", "ilceAd": "Sultangazi", "ilceSlug": "sultangazi"}, {"sehirId": "34", "ilceAd": "Şile", "ilceSlug": "sile"}, {"sehirId": "34", "ilceAd": "Şişli", "ilceSlug": "sisli"}, {"sehirId": "34", "ilceAd": "Tuzla", "ilceSlug": "tuzla"}, {"sehirId": "34", "ilceAd": "Ümraniye", "ilceSlug": "umraniye"}, {"sehirId": "34", "ilceAd": "Üsküdar", "ilceSlug": "uskudar"}, {"sehirId": "34", "ilceAd": "Zeytinburnu", "ilceSlug": "zeytinburnu"}
+    ]
+  },
+  {
+    "id":"35",
+    "sehirAd":"İzmir",
+    "sehirSlug":"izmir",
+    "ilceler":
+    [
+     {"sehirId": "35", "ilceAd": "Aliağa", "ilceSlug": "aliaga"}, {"sehirId": "35", "ilceAd": "Balçova", "ilceSlug": "balcova"}, {"sehirId": "35", "ilceAd": "Bayındır", "ilceSlug": "bayindir"}, {"sehirId": "35", "ilceAd": "Bayraklı", "ilceSlug": "bayrakli"}, {"sehirId": "35", "ilceAd": "Bergama", "ilceSlug": "bergama"}, {"sehirId": "35", "ilceAd": "Beydağ", "ilceSlug": "beydag"}, {"sehirId": "35", "ilceAd": "Bornova", "ilceSlug": "bornova"}, {"sehirId": "35", "ilceAd": "Buca", "ilceSlug": "buca"}, {"sehirId": "35", "ilceAd": "Çeşme", "ilceSlug": "cesme"}, {"sehirId": "35", "ilceAd": "Çiğli", "ilceSlug": "cigli"}, {"sehirId": "35", "ilceAd": "Dikili", "ilceSlug": "dikili"}, {"sehirId": "35", "ilceAd": "Foça", "ilceSlug": "foca"}, {"sehirId": "35", "ilceAd": "Gaziemir", "ilceSlug": "gaziemir"}, {"sehirId": "35", "ilceAd": "Güzelbahçe", "ilceSlug": "guzelbahce"}, {"sehirId": "35", "ilceAd": "Karabağlar", "ilceSlug": "karabaglar"}, {"sehirId": "35", "ilceAd": "Karaburun", "ilceSlug": "karaburun"}, {"sehirId": "35", "ilceAd": "Karşıyaka", "ilceSlug": "karsiyaka"}, {"sehirId": "35", "ilceAd": "Kemalpaşa", "ilceSlug": "kemalpasa"}, {"sehirId": "35", "ilceAd": "Kınık", "ilceSlug": "kinik"}, {"sehirId": "35", "ilceAd": "Kiraz", "ilceSlug": "kiraz"}, {"sehirId": "35", "ilceAd": "Konak", "ilceSlug": "konak"}, {"sehirId": "35", "ilceAd": "Menderes", "ilceSlug": "menderes"}, {"sehirId": "35", "ilceAd": "Menemen", "ilceSlug": "menemen"}, {"sehirId": "35", "ilceAd": "Narlıdere", "ilceSlug": "narlidere"}, {"sehirId": "35", "ilceAd": "Ödemiş", "ilceSlug": "odemis"}, {"sehirId": "35", "ilceAd": "Seferihisar", "ilceSlug": "seferihisar"}, {"sehirId": "35", "ilceAd": "Selçuk", "ilceSlug": "selcuk"}, {"sehirId": "35", "ilceAd": "Tire", "ilceSlug": "tire"}, {"sehirId": "35", "ilceAd": "Torbalı", "ilceSlug": "torbali"}, {"sehirId": "35", "ilceAd": "Urla", "ilceSlug": "urla"}
+    ]
+  },
+  {
+    "id":"46",
+    "sehirAd":"Kahramanmaraş",
+    "sehirSlug":"kahramanmaras",
+    "ilceler":
+    [
+     {"sehirId": "46", "ilceAd": "Afşin", "ilceSlug": "afsin"}, {"sehirId": "46", "ilceAd": "Andırın", "ilceSlug": "andirin"}, {"sehirId": "46", "ilceAd": "Çağlayancerit", "ilceSlug": "caglayancerit"}, {"sehirId": "46", "ilceAd": "Dulkadiroğlu", "ilceSlug": "dulkadiroglu"}, {"sehirId": "46", "ilceAd": "Ekinözü", "ilceSlug": "ekinozu"}, {"sehirId": "46", "ilceAd": "Elbistan", "ilceSlug": "elbistan"}, {"sehirId": "46", "ilceAd": "Göksun", "ilceSlug": "goksun"}, {"sehirId": "46", "ilceAd": "Nurhak", "ilceSlug": "nurhak"}, {"sehirId": "46", "ilceAd": "Onikişubat", "ilceSlug": "onikisubat"}, {"sehirId": "46", "ilceAd": "Pazarcık", "ilceSlug": "pazarcik"}, {"sehirId": "46", "ilceAd": "Türkoğlu", "ilceSlug": "turkoglu"}
+    ]
+  },
+  {
+    "id":"78",
+    "sehirAd":"Karabük",
+    "sehirSlug":"karabuk",
+    "ilceler":
+    [
+     {"sehirId": "78", "ilceAd": "Eflani", "ilceSlug": "eflani"}, {"sehirId": "78", "ilceAd": "Eskipazar", "ilceSlug": "eskipazar"}, {"sehirId": "78", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "78", "ilceAd": "Ovacık", "ilceSlug": "ovacik"}, {"sehirId": "78", "ilceAd": "Safranbolu", "ilceSlug": "safranbolu"}, {"sehirId": "78", "ilceAd": "Yenice", "ilceSlug": "yenice"}
+    ]
+  },
+  {
+    "id":"70",
+    "sehirAd":"Karaman",
+    "sehirSlug":"karaman",
+    "ilceler":
+    [
+     {"sehirId": "70", "ilceAd": "Ayrancı", "ilceSlug": "ayranci"}, {"sehirId": "70", "ilceAd": "Başyayla", "ilceSlug": "basyayla"}, {"sehirId": "70", "ilceAd": "Ermenek", "ilceSlug": "ermenek"}, {"sehirId": "70", "ilceAd": "Kazımkarabekir", "ilceSlug": "kazimkarabekir"}, {"sehirId": "70", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "70", "ilceAd": "Sarıveliler", "ilceSlug": "sariveliler"}
+    ]
+  },
+  {
+    "id":"36",
+    "sehirAd":"Kars",
+    "sehirSlug":"kars",
+    "ilceler":
+    [
+     {"sehirId": "36", "ilceAd": "Akyaka", "ilceSlug": "akyaka"}, {"sehirId": "36", "ilceAd": "Arpaçay", "ilceSlug": "arpacay"}, {"sehirId": "36", "ilceAd": "Digor", "ilceSlug": "digor"}, {"sehirId": "36", "ilceAd": "Kağızman", "ilceSlug": "kagizman"}, {"sehirId": "36", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "36", "ilceAd": "Sarıkamış", "ilceSlug": "sarikamis"}, {"sehirId": "36", "ilceAd": "Selim", "ilceSlug": "selim"}, {"sehirId": "36", "ilceAd": "Susuz", "ilceSlug": "susuz"}
+    ]
+  },
+  {
+    "id":"37",
+    "sehirAd":"Kastamonu",
+    "sehirSlug":"kastamonu",
+    "ilceler":
+    [
+     {"sehirId": "37", "ilceAd": "Abana", "ilceSlug": "abana"}, {"sehirId": "37", "ilceAd": "Ağlı", "ilceSlug": "agli"}, {"sehirId": "37", "ilceAd": "Araç", "ilceSlug": "arac"}, {"sehirId": "37", "ilceAd": "Azdavay", "ilceSlug": "azdavay"}, {"sehirId": "37", "ilceAd": "Bozkurt", "ilceSlug": "bozkurt"}, {"sehirId": "37", "ilceAd": "Cide", "ilceSlug": "cide"}, {"sehirId": "37", "ilceAd": "Çatalzeytin", "ilceSlug": "catalzeytin"}, {"sehirId": "37", "ilceAd": "Daday", "ilceSlug": "daday"}, {"sehirId": "37", "ilceAd": "Devrekani", "ilceSlug": "devrekani"}, {"sehirId": "37", "ilceAd": "Doğanyurt", "ilceSlug": "doganyurt"}, {"sehirId": "37", "ilceAd": "Hanönü", "ilceSlug": "hanonu"}, {"sehirId": "37", "ilceAd": "İhsangazi", "ilceSlug": "ihsangazi"}, {"sehirId": "37", "ilceAd": "İnebolu", "ilceSlug": "inebolu"}, {"sehirId": "37", "ilceAd": "Küre", "ilceSlug": "kure"}, {"sehirId": "37", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "37", "ilceAd": "Pınarbaşı", "ilceSlug": "pinarbasi"}, {"sehirId": "37", "ilceAd": "Seydiler", "ilceSlug": "seydiler"}, {"sehirId": "37", "ilceAd": "Şenpazar", "ilceSlug": "senpazar"}, {"sehirId": "37", "ilceAd": "Taşköprü", "ilceSlug": "taskopru"}, {"sehirId": "37", "ilceAd": "Tosya", "ilceSlug": "tosya"}
+    ]
+  },
+  {
+    "id":"38",
+    "sehirAd":"Kayseri",
+    "sehirSlug":"kayseri",
+    "ilceler":
+    [
+     {"sehirId": "38", "ilceAd": "Akkışla", "ilceSlug": "akkisla"}, {"sehirId": "38", "ilceAd": "Bünyan", "ilceSlug": "bunyan"}, {"sehirId": "38", "ilceAd": "Develi", "ilceSlug": "develi"}, {"sehirId": "38", "ilceAd": "Felahiye", "ilceSlug": "felahiye"}, {"sehirId": "38", "ilceAd": "Hacılar", "ilceSlug": "hacilar"}, {"sehirId": "38", "ilceAd": "İncesu", "ilceSlug": "incesu"}, {"sehirId": "38", "ilceAd": "Kocasinan", "ilceSlug": "kocasinan"}, {"sehirId": "38", "ilceAd": "Melikgazi", "ilceSlug": "melikgazi"}, {"sehirId": "38", "ilceAd": "Özvatan", "ilceSlug": "ozvatan"}, {"sehirId": "38", "ilceAd": "Pınarbaşı", "ilceSlug": "pinarbasi"}, {"sehirId": "38", "ilceAd": "Sarıoğlan", "ilceSlug": "sarioglan"}, {"sehirId": "38", "ilceAd": "Sarız", "ilceSlug": "sariz"}, {"sehirId": "38", "ilceAd": "Talas", "ilceSlug": "talas"}, {"sehirId": "38", "ilceAd": "Tomarza", "ilceSlug": "tomarza"}, {"sehirId": "38", "ilceAd": "Yahyalı", "ilceSlug": "yahyali"}, {"sehirId": "38", "ilceAd": "Yeşilhisar", "ilceSlug": "yesilhisar"}
+    ]
+  },
+  {
+    "id":"71",
+    "sehirAd":"Kırıkkale",
+    "sehirSlug":"kirikkale",
+    "ilceler":
+    [
+     {"sehirId": "71", "ilceAd": "Bahşili", "ilceSlug": "bahsili"}, {"sehirId": "71", "ilceAd": "Balışeyh", "ilceSlug": "baliseyh"}, {"sehirId": "71", "ilceAd": "Çelebi", "ilceSlug": "celebi"}, {"sehirId": "71", "ilceAd": "Delice", "ilceSlug": "delice"}, {"sehirId": "71", "ilceAd": "Karakeçili", "ilceSlug": "karakecili"}, {"sehirId": "71", "ilceAd": "Keskin", "ilceSlug": "keskin"}, {"sehirId": "71", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "71", "ilceAd": "Sulakyurt", "ilceSlug": "sulakyurt"}, {"sehirId": "71", "ilceAd": "Yahşihan", "ilceSlug": "yahsihan"}
+    ]
+  },
+  {
+    "id":"39",
+    "sehirAd":"Kırklareli",
+    "sehirSlug":"kirklareli",
+    "ilceler":
+    [
+     {"sehirId": "39", "ilceAd": "Babaeski", "ilceSlug": "babaeski"}, {"sehirId": "39", "ilceAd": "Demirköy", "ilceSlug": "demirkoy"}, {"sehirId": "39", "ilceAd": "Kofçaz", "ilceSlug": "kofcaz"}, {"sehirId": "39", "ilceAd": "Lüleburgaz", "ilceSlug": "luleburgaz"}, {"sehirId": "39", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "39", "ilceAd": "Pehlivanköy", "ilceSlug": "pehlivankoy"}, {"sehirId": "39", "ilceAd": "Pınarhisar", "ilceSlug": "pinarhisar"}, {"sehirId": "39", "ilceAd": "Vize", "ilceSlug": "vize"}
+    ]
+  },
+  {
+    "id":"40",
+    "sehirAd":"Kırşehir",
+    "sehirSlug":"kirsehir",
+    "ilceler":
+    [
+     {"sehirId": "40", "ilceAd": "Akçakent", "ilceSlug": "akcakent"}, {"sehirId": "40", "ilceAd": "Akpınar", "ilceSlug": "akpinar"}, {"sehirId": "40", "ilceAd": "Boztepe", "ilceSlug": "boztepe"}, {"sehirId": "40", "ilceAd": "Çiçekdağı", "ilceSlug": "cicekdagi"}, {"sehirId": "40", "ilceAd": "Kaman", "ilceSlug": "kaman"}, {"sehirId": "40", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "40", "ilceAd": "Mucur", "ilceSlug": "mucur"}
+    ]
+  },
+  {
+    "id":"79",
+    "sehirAd":"Kilis",
+    "sehirSlug":"kilis",
+    "ilceler":
+    [
+     {"sehirId": "79", "ilceAd": "Elbeyli", "ilceSlug": "elbeyli"}, {"sehirId": "79", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "79", "ilceAd": "Musabeyli", "ilceSlug": "musabeyli"}, {"sehirId": "79", "ilceAd": "Polateli", "ilceSlug": "polateli"}
+    ]
+  },
+  {
+    "id":"41",
+    "sehirAd":"Kocaeli",
+    "sehirSlug":"kocaeli",
+    "ilceler":
+    [
+     {"sehirId": "41", "ilceAd": "Başiskele", "ilceSlug": "basiskele"}, {"sehirId": "41", "ilceAd": "Çayırova", "ilceSlug": "cayirova"}, {"sehirId": "41", "ilceAd": "Darıca", "ilceSlug": "darica"}, {"sehirId": "41", "ilceAd": "Derince", "ilceSlug": "derince"}, {"sehirId": "41", "ilceAd": "Dilovası", "ilceSlug": "dilovasi"}, {"sehirId": "41", "ilceAd": "Gebze", "ilceSlug": "gebze"}, {"sehirId": "41", "ilceAd": "Gölcük", "ilceSlug": "golcuk"}, {"sehirId": "41", "ilceAd": "İzmit", "ilceSlug": "izmit"}, {"sehirId": "41", "ilceAd": "Kandıra", "ilceSlug": "kandira"}, {"sehirId": "41", "ilceAd": "Karamürsel", "ilceSlug": "karamursel"}, {"sehirId": "41", "ilceAd": "Kartepe", "ilceSlug": "kartepe"}, {"sehirId": "41", "ilceAd": "Körfez", "ilceSlug": "korfez"}
+    ]
+  },
+  {
+    "id":"42",
+    "sehirAd":"Konya",
+    "sehirSlug":"konya",
+    "ilceler":
+    [
+     {"sehirId": "42", "ilceAd": "Ahırlı", "ilceSlug": "ahirli"}, {"sehirId": "42", "ilceAd": "Akören", "ilceSlug": "akoren"}, {"sehirId": "42", "ilceAd": "Akşehir", "ilceSlug": "aksehir"}, {"sehirId": "42", "ilceAd": "Altınekin", "ilceSlug": "altinekin"}, {"sehirId": "42", "ilceAd": "Beyşehir", "ilceSlug": "beysehir"}, {"sehirId": "42", "ilceAd": "Bozkır", "ilceSlug": "bozkir"}, {"sehirId": "42", "ilceAd": "Cihanbeyli", "ilceSlug": "cihanbeyli"}, {"sehirId": "42", "ilceAd": "Çeltik", "ilceSlug": "celtik"}, {"sehirId": "42", "ilceAd": "Çumra", "ilceSlug": "cumra"}, {"sehirId": "42", "ilceAd": "Derbent", "ilceSlug": "derbent"}, {"sehirId": "42", "ilceAd": "Derebucak", "ilceSlug": "derebucak"}, {"sehirId": "42", "ilceAd": "Doğanhisar", "ilceSlug": "doganhisar"}, {"sehirId": "42", "ilceAd": "Emirgazi", "ilceSlug": "emirgazi"}, {"sehirId": "42", "ilceAd": "Ereğli", "ilceSlug": "eregli"}, {"sehirId": "42", "ilceAd": "Güneysınır", "ilceSlug": "guneysinir"}, {"sehirId": "42", "ilceAd": "Hadim", "ilceSlug": "hadim"}, {"sehirId": "42", "ilceAd": "Halkapınar", "ilceSlug": "halkapinar"}, {"sehirId": "42", "ilceAd": "Hüyük", "ilceSlug": "huyuk"}, {"sehirId": "42", "ilceAd": "Ilgın", "ilceSlug": "ilgin"}, {"sehirId": "42", "ilceAd": "Kadınhanı", "ilceSlug": "kadinhani"}, {"sehirId": "42", "ilceAd": "Karapınar", "ilceSlug": "karapinar"}, {"sehirId": "42", "ilceAd": "Karatay", "ilceSlug": "karatay"}, {"sehirId": "42", "ilceAd": "Kulu", "ilceSlug": "kulu"}, {"sehirId": "42", "ilceAd": "Meram", "ilceSlug": "meram"}, {"sehirId": "42", "ilceAd": "Sarayönü", "ilceSlug": "sarayonu"}, {"sehirId": "42", "ilceAd": "Selçuklu", "ilceSlug": "selcuklu"}, {"sehirId": "42", "ilceAd": "Seydişehir", "ilceSlug": "seydisehir"}, {"sehirId": "42", "ilceAd": "Taşkent", "ilceSlug": "taskent"}, {"sehirId": "42", "ilceAd": "Tuzlukçu", "ilceSlug": "tuzlukcu"}, {"sehirId": "42", "ilceAd": "Yalıhüyük", "ilceSlug": "yalihuyuk"}, {"sehirId": "42", "ilceAd": "Yunak", "ilceSlug": "yunak"}
+    ]
+  },
+  {
+    "id":"43",
+    "sehirAd":"Kütahya",
+    "sehirSlug":"kutahya",
+    "ilceler":
+    [
+     {"sehirId": "43", "ilceAd": "Altıntaş", "ilceSlug": "altintas"}, {"sehirId": "43", "ilceAd": "Aslanapa", "ilceSlug": "aslanapa"}, {"sehirId": "43", "ilceAd": "Çavdarhisar", "ilceSlug": "cavdarhisar"}, {"sehirId": "43", "ilceAd": "Domaniç", "ilceSlug": "domanic"}, {"sehirId": "43", "ilceAd": "Dumlupınar", "ilceSlug": "dumlupinar"}, {"sehirId": "43", "ilceAd": "Emet", "ilceSlug": "emet"}, {"sehirId": "43", "ilceAd": "Gediz", "ilceSlug": "gediz"}, {"sehirId": "43", "ilceAd": "Hisarcık", "ilceSlug": "hisarcik"}, {"sehirId": "43", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "43", "ilceAd": "Pazarlar", "ilceSlug": "pazarlar"}, {"sehirId": "43", "ilceAd": "Simav", "ilceSlug": "simav"}, {"sehirId": "43", "ilceAd": "Şaphane", "ilceSlug": "saphane"}, {"sehirId": "43", "ilceAd": "Tavşanlı", "ilceSlug": "tavsanli"}
+    ]
+  },
+  {
+    "id":"44",
+    "sehirAd":"Malatya",
+    "sehirSlug":"malatya",
+    "ilceler":
+    [
+     {"sehirId": "44", "ilceAd": "Akçadağ", "ilceSlug": "akcadag"}, {"sehirId": "44", "ilceAd": "Arapgir", "ilceSlug": "arapgir"}, {"sehirId": "44", "ilceAd": "Arguvan", "ilceSlug": "arguvan"}, {"sehirId": "44", "ilceAd": "Battalgazi", "ilceSlug": "battalgazi"}, {"sehirId": "44", "ilceAd": "Darende", "ilceSlug": "darende"}, {"sehirId": "44", "ilceAd": "Doğanşehir", "ilceSlug": "dogansehir"}, {"sehirId": "44", "ilceAd": "Doğanyol", "ilceSlug": "doganyol"}, {"sehirId": "44", "ilceAd": "Hekimhan", "ilceSlug": "hekimhan"}, {"sehirId": "44", "ilceAd": "Kale", "ilceSlug": "kale"}, {"sehirId": "44", "ilceAd": "Kuluncak", "ilceSlug": "kuluncak"}, {"sehirId": "44", "ilceAd": "Pütürge", "ilceSlug": "puturge"}, {"sehirId": "44", "ilceAd": "Yazıhan", "ilceSlug": "yazihan"}, {"sehirId": "44", "ilceAd": "Yeşilyurt", "ilceSlug": "yesilyurt"}, {"sehirId": "44", "ilceAd": "Merkez", "ilceSlug": "Merkez"}
+    ]
+  },
+  {
+    "id":"45",
+    "sehirAd":"Manisa",
+    "sehirSlug":"manisa",
+    "ilceler":
+    [
+     {"sehirId": "45", "ilceAd": "Ahmetli", "ilceSlug": "ahmetli"}, {"sehirId": "45", "ilceAd": "Akhisar", "ilceSlug": "akhisar"}, {"sehirId": "45", "ilceAd": "Alaşehir", "ilceSlug": "alasehir"}, {"sehirId": "45", "ilceAd": "Demirci", "ilceSlug": "demirci"}, {"sehirId": "45", "ilceAd": "Gölmarmara", "ilceSlug": "golmarmara"}, {"sehirId": "45", "ilceAd": "Gördes", "ilceSlug": "gordes"}, {"sehirId": "45", "ilceAd": "Kırkağaç", "ilceSlug": "kirkagac"}, {"sehirId": "45", "ilceAd": "Köprübaşı", "ilceSlug": "koprubasi"}, {"sehirId": "45", "ilceAd": "Kula", "ilceSlug": "kula"}, {"sehirId": "45", "ilceAd": "Salihli", "ilceSlug": "salihli"}, {"sehirId": "45", "ilceAd": "Sarıgöl", "ilceSlug": "sarigol"}, {"sehirId": "45", "ilceAd": "Saruhanlı", "ilceSlug": "saruhanli"}, {"sehirId": "45", "ilceAd": "Selendi", "ilceSlug": "selendi"}, {"sehirId": "45", "ilceAd": "Soma", "ilceSlug": "soma"}, {"sehirId": "45", "ilceAd": "Şehzadeler", "ilceSlug": "sehzadeler"}, {"sehirId": "45", "ilceAd": "Turgutlu", "ilceSlug": "turgutlu"}, {"sehirId": "45", "ilceAd": "Yunusemre", "ilceSlug": "yunusemre"}, {"sehirId": "45", "ilceAd": "Merkez", "ilceSlug": "merkez"}
+    ]
+  },
+  {
+    "id":"47",
+    "sehirAd":"Mardin",
+    "sehirSlug":"mardin",
+    "ilceler":
+    [
+     {"sehirId": "47", "ilceAd": "Artuklu", "ilceSlug": "artuklu"}, {"sehirId": "47", "ilceAd": "Dargeçit", "ilceSlug": "dargecit"}, {"sehirId": "47", "ilceAd": "Derik", "ilceSlug": "derik"}, {"sehirId": "47", "ilceAd": "Kızıltepe", "ilceSlug": "kiziltepe"}, {"sehirId": "47", "ilceAd": "Mazıdağı", "ilceSlug": "mazidagi"}, {"sehirId": "47", "ilceAd": "Midyat", "ilceSlug": "midyat"}, {"sehirId": "47", "ilceAd": "Nusaybin", "ilceSlug": "nusaybin"}, {"sehirId": "47", "ilceAd": "Ömerli", "ilceSlug": "omerli"}, {"sehirId": "47", "ilceAd": "Savur", "ilceSlug": "savur"}, {"sehirId": "47", "ilceAd": "Yeşilli", "ilceSlug": "yesilli"}
+    ]
+  },
+  {
+    "id":"33",
+    "sehirAd":"Mersin",
+    "sehirSlug":"mersin",
+    "ilceler":
+    [
+     {"sehirId": "33", "ilceAd": "Akdeniz", "ilceSlug": "akdeniz"}, {"sehirId": "33", "ilceAd": "Anamur", "ilceSlug": "anamur"}, {"sehirId": "33", "ilceAd": "Aydıncık", "ilceSlug": "aydincik"}, {"sehirId": "33", "ilceAd": "Bozyazı", "ilceSlug": "bozyazi"}, {"sehirId": "33", "ilceAd": "Çamlıyayla", "ilceSlug": "camliyayla"}, {"sehirId": "33", "ilceAd": "Erdemli", "ilceSlug": "erdemli"}, {"sehirId": "33", "ilceAd": "Gülnar", "ilceSlug": "gulnar"}, {"sehirId": "33", "ilceAd": "Mezitli", "ilceSlug": "mezitli"}, {"sehirId": "33", "ilceAd": "Mut", "ilceSlug": "mut"}, {"sehirId": "33", "ilceAd": "Silifke", "ilceSlug": "silifke"}, {"sehirId": "33", "ilceAd": "Tarsus", "ilceSlug": "tarsus"}, {"sehirId": "33", "ilceAd": "Toroslar", "ilceSlug": "toroslar"}, {"sehirId": "33", "ilceAd": "Yenişehir", "ilceSlug": "yenisehir"}, {"sehirId": "33", "ilceAd": "Merkez", "ilceSlug": "merkez"}
+    ]
+  },
+  {
+    "id":"48",
+    "sehirAd":"Muğla",
+    "sehirSlug":"mugla",
+    "ilceler":
+    [
+     {"sehirId": "48", "ilceAd": "Bodrum", "ilceSlug": "bodrum"}, {"sehirId": "48", "ilceAd": "Dalaman", "ilceSlug": "dalaman"}, {"sehirId": "48", "ilceAd": "Datça", "ilceSlug": "datca"}, {"sehirId": "48", "ilceAd": "Fethiye", "ilceSlug": "fethiye"}, {"sehirId": "48", "ilceAd": "Kavaklıdere", "ilceSlug": "kavaklidere"}, {"sehirId": "48", "ilceAd": "Köyceğiz", "ilceSlug": "koycegiz"}, {"sehirId": "48", "ilceAd": "Marmaris", "ilceSlug": "marmaris"}, {"sehirId": "48", "ilceAd": "Menteşe", "ilceSlug": "mentese"}, {"sehirId": "48", "ilceAd": "Milas", "ilceSlug": "milas"}, {"sehirId": "48", "ilceAd": "Ortaca", "ilceSlug": "ortaca"}, {"sehirId": "48", "ilceAd": "Seydikemer", "ilceSlug": "seydikemer"}, {"sehirId": "48", "ilceAd": "Ula", "ilceSlug": "ula"}, {"sehirId": "48", "ilceAd": "Yatağan", "ilceSlug": "yatagan"}, {"sehirId": "48", "ilceAd": "Merkez", "ilceSlug": "merkez"}
+    ]
+  },
+  {
+    "id":"49",
+    "sehirAd":"Muş",
+    "sehirSlug":"mus",
+    "ilceler":
+    [
+     {"sehirId": "49", "ilceAd": "Bulanık", "ilceSlug": "bulanik"}, {"sehirId": "49", "ilceAd": "Hasköy", "ilceSlug": "haskoy"}, {"sehirId": "49", "ilceAd": "Korkut", "ilceSlug": "korkut"}, {"sehirId": "49", "ilceAd": "Malazgirt", "ilceSlug": "malazgirt"}, {"sehirId": "49", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "49", "ilceAd": "Varto", "ilceSlug": "varto"}
+    ]
+  },
+  {
+    "id":"50",
+    "sehirAd":"Nevşehir",
+    "sehirSlug":"nevsehir",
+    "ilceler":
+    [
+     {"sehirId": "50", "ilceAd": "Acıgöl", "ilceSlug": "acigol"}, {"sehirId": "50", "ilceAd": "Avanos", "ilceSlug": "avanos"}, {"sehirId": "50", "ilceAd": "Derinkuyu", "ilceSlug": "derinkuyu"}, {"sehirId": "50", "ilceAd": "Gülşehir", "ilceSlug": "gulsehir"}, {"sehirId": "50", "ilceAd": "Hacıbektaş", "ilceSlug": "hacibektas"}, {"sehirId": "50", "ilceAd": "Kozaklı", "ilceSlug": "kozakli"}, {"sehirId": "50", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "50", "ilceAd": "Ürgüp", "ilceSlug": "urgup"}
+    ]
+  },
+  {
+    "id":"51",
+    "sehirAd":"Niğde",
+    "sehirSlug":"nigde",
+    "ilceler":
+    [
+     {"sehirId": "51", "ilceAd": "Altunhisar", "ilceSlug": "altunhisar"}, {"sehirId": "51", "ilceAd": "Bor", "ilceSlug": "bor"}, {"sehirId": "51", "ilceAd": "Çamardı", "ilceSlug": "camardi"}, {"sehirId": "51", "ilceAd": "Çiftlik", "ilceSlug": "ciftlik"}, {"sehirId": "51", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "51", "ilceAd": "Ulukışla", "ilceSlug": "ulukisla"}
+    ]
+  },
+  {
+    "id":"52",
+    "sehirAd":"Ordu",
+    "sehirSlug":"ordu",
+    "ilceler":
+    [
+     {"sehirId": "52", "ilceAd": "Akkuş", "ilceSlug": "akkus"}, {"sehirId": "52", "ilceAd": "Altınordu", "ilceSlug": "altinordu"}, {"sehirId": "52", "ilceAd": "Aybastı", "ilceSlug": "aybasti"}, {"sehirId": "52", "ilceAd": "Çamaş", "ilceSlug": "camas"}, {"sehirId": "52", "ilceAd": "Çatalpınar", "ilceSlug": "catalpinar"}, {"sehirId": "52", "ilceAd": "Çaybaşı", "ilceSlug": "caybasi"}, {"sehirId": "52", "ilceAd": "Fatsa", "ilceSlug": "fatsa"}, {"sehirId": "52", "ilceAd": "Gölköy", "ilceSlug": "golkoy"}, {"sehirId": "52", "ilceAd": "Gülyalı", "ilceSlug": "gulyali"}, {"sehirId": "52", "ilceAd": "Gürgentepe", "ilceSlug": "gurgentepe"}, {"sehirId": "52", "ilceAd": "İkizce", "ilceSlug": "ikizce"}, {"sehirId": "52", "ilceAd": "Kabadüz", "ilceSlug": "kabaduz"}, {"sehirId": "52", "ilceAd": "Kabataş", "ilceSlug": "kabatas"}, {"sehirId": "52", "ilceAd": "Korgan", "ilceSlug": "korgan"}, {"sehirId": "52", "ilceAd": "Kumru", "ilceSlug": "kumru"}, {"sehirId": "52", "ilceAd": "Mesudiye", "ilceSlug": "mesudiye"}, {"sehirId": "52", "ilceAd": "Perşembe", "ilceSlug": "persembe"}, {"sehirId": "52", "ilceAd": "Ulubey", "ilceSlug": "ulubey"}, {"sehirId": "52", "ilceAd": "Ünye", "ilceSlug": "unye"}
+    ]
+  },
+  {
+    "id":"80",
+    "sehirAd":"Osmaniye",
+    "sehirSlug":"osmaniye",
+    "ilceler":
+    [
+     {"sehirId": "80", "ilceAd": "Bahçe", "ilceSlug": "bahce"}, {"sehirId": "80", "ilceAd": "Düziçi", "ilceSlug": "duzici"}, {"sehirId": "80", "ilceAd": "Hasanbeyli", "ilceSlug": "hasanbeyli"}, {"sehirId": "80", "ilceAd": "Kadirli", "ilceSlug": "kadirli"}, {"sehirId": "80", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "80", "ilceAd": "Sumbas", "ilceSlug": "sumbas"}, {"sehirId": "80", "ilceAd": "Toprakkale", "ilceSlug": "toprakkale"}
+    ]
+  },
+  {
+    "id":"53",
+    "sehirAd":"Rize",
+    "sehirSlug":"rize",
+    "ilceler":
+    [
+     {"sehirId": "53", "ilceAd": "Ardeşen", "ilceSlug": "ardesen"}, {"sehirId": "53", "ilceAd": "Çamlıhemşin", "ilceSlug": "camlihemsin"}, {"sehirId": "53", "ilceAd": "Çayeli", "ilceSlug": "cayeli"}, {"sehirId": "53", "ilceAd": "Derepazarı", "ilceSlug": "derepazari"}, {"sehirId": "53", "ilceAd": "Fındıklı", "ilceSlug": "findikli"}, {"sehirId": "53", "ilceAd": "Güneysu", "ilceSlug": "guneysu"}, {"sehirId": "53", "ilceAd": "Hemşin", "ilceSlug": "hemsin"}, {"sehirId": "53", "ilceAd": "İkizdere", "ilceSlug": "ikizdere"}, {"sehirId": "53", "ilceAd": "İyidere", "ilceSlug": "iyidere"}, {"sehirId": "53", "ilceAd": "Kalkandere", "ilceSlug": "kalkandere"}, {"sehirId": "53", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "53", "ilceAd": "Pazar", "ilceSlug": "pazar"}
+    ]
+  },
+  {
+    "id":"54",
+    "sehirAd":"Sakarya",
+    "sehirSlug":"sakarya",
+    "ilceler":
+    [
+     {"sehirId": "54", "ilceAd": "Adapazarı", "ilceSlug": "adapazari"}, {"sehirId": "54", "ilceAd": "Akyazı", "ilceSlug": "akyazi"}, {"sehirId": "54", "ilceAd": "Arifiye", "ilceSlug": "arifiye"}, {"sehirId": "54", "ilceAd": "Erenler", "ilceSlug": "erenler"}, {"sehirId": "54", "ilceAd": "Ferizli", "ilceSlug": "ferizli"}, {"sehirId": "54", "ilceAd": "Geyve", "ilceSlug": "geyve"}, {"sehirId": "54", "ilceAd": "Hendek", "ilceSlug": "hendek"}, {"sehirId": "54", "ilceAd": "Karapürçek", "ilceSlug": "karapurcek"}, {"sehirId": "54", "ilceAd": "Karasu", "ilceSlug": "karasu"}, {"sehirId": "54", "ilceAd": "Kaynarca", "ilceSlug": "kaynarca"}, {"sehirId": "54", "ilceAd": "Kocaali", "ilceSlug": "kocaali"}, {"sehirId": "54", "ilceAd": "Pamukova", "ilceSlug": "pamukova"}, {"sehirId": "54", "ilceAd": "Sapanca", "ilceSlug": "sapanca"}, {"sehirId": "54", "ilceAd": "Serdivan", "ilceSlug": "serdivan"}, {"sehirId": "54", "ilceAd": "Söğütlü", "ilceSlug": "sogutlu"}, {"sehirId": "54", "ilceAd": "Taraklı", "ilceSlug": "tarakli"}
+    ]
+  },
+  {
+    "id":"55",
+    "sehirAd":"Samsun",
+    "sehirSlug":"samsun",
+    "ilceler":
+    [
+     {"sehirId": "55", "ilceAd": "19 Mayıs", "ilceSlug": "19"mayis"}, {"sehirId": "55", "ilceAd": "Alaçam", "ilceSlug": "alacam"}, {"sehirId": "55", "ilceAd": "Atakum", "ilceSlug": "atakum"}, {"sehirId": "55", "ilceAd": "Ayvacık", "ilceSlug": "ayvacik"}, {"sehirId": "55", "ilceAd": "Bafra", "ilceSlug": "bafra"}, {"sehirId": "55", "ilceAd": "Canik", "ilceSlug": "canik"}, {"sehirId": "55", "ilceAd": "Çarşamba", "ilceSlug": "carsamba"}, {"sehirId": "55", "ilceAd": "Havza", "ilceSlug": "havza"}, {"sehirId": "55", "ilceAd": "İlkadım", "ilceSlug": "ilkadim"}, {"sehirId": "55", "ilceAd": "Kavak", "ilceSlug": "kavak"}, {"sehirId": "55", "ilceAd": "Ladik", "ilceSlug": "ladik"}, {"sehirId": "55", "ilceAd": "Salıpazarı", "ilceSlug": "salipazari"}, {"sehirId": "55", "ilceAd": "Tekkeköy", "ilceSlug": "tekkekoy"}, {"sehirId": "55", "ilceAd": "Terme", "ilceSlug": "terme"}, {"sehirId": "55", "ilceAd": "Vezirköprü", "ilceSlug": "vezirkopru"}, {"sehirId": "55", "ilceAd": "Yakakent", "ilceSlug": "yakakent"}, {"sehirId": "55", "ilceAd": "Asarcık", "ilceSlug": "asarcik"}
+    ]
+  },
+  {
+    "id":"56",
+    "sehirAd":"Siirt",
+    "sehirSlug":"siirt",
+    "ilceler":
+    [
+     {"sehirId": "56", "ilceAd": "Baykan", "ilceSlug": "baykan"}, {"sehirId": "56", "ilceAd": "Eruh", "ilceSlug": "eruh"}, {"sehirId": "56", "ilceAd": "Kurtalan", "ilceSlug": "kurtalan"}, {"sehirId": "56", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "56", "ilceAd": "Pervari", "ilceSlug": "pervari"}, {"sehirId": "56", "ilceAd": "Şirvan", "ilceSlug": "sirvan"}, {"sehirId": "56", "ilceAd": "Tillo", "ilceSlug": "tillo"}
+    ]
+  },
+  {
+    "id":"57",
+    "sehirAd":"Sinop",
+    "sehirSlug":"sinop",
+    "ilceler":
+    [
+     {"sehirId": "57", "ilceAd": "Ayancık", "ilceSlug": "ayancik"}, {"sehirId": "57", "ilceAd": "Boyabat", "ilceSlug": "boyabat"}, {"sehirId": "57", "ilceAd": "Dikmen", "ilceSlug": "dikmen"}, {"sehirId": "57", "ilceAd": "Durağan", "ilceSlug": "duragan"}, {"sehirId": "57", "ilceAd": "Erfelek", "ilceSlug": "erfelek"}, {"sehirId": "57", "ilceAd": "Gerze", "ilceSlug": "gerze"}, {"sehirId": "57", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "57", "ilceAd": "Saraydüzü", "ilceSlug": "sarayduzu"}, {"sehirId": "57", "ilceAd": "Türkeli", "ilceSlug": "turkeli"}
+    ]
+  },
+  {
+    "id":"58",
+    "sehirAd":"Sivas",
+    "sehirSlug":"sivas",
+    "ilceler":
+    [
+     {"sehirId": "58", "ilceAd": "Akıncılar", "ilceSlug": "akincilar"}, {"sehirId": "58", "ilceAd": "Altınyayla", "ilceSlug": "altinyayla"}, {"sehirId": "58", "ilceAd": "Divriği", "ilceSlug": "divrigi"}, {"sehirId": "58", "ilceAd": "Doğanşar", "ilceSlug": "dogansar"}, {"sehirId": "58", "ilceAd": "Gemerek", "ilceSlug": "gemerek"}, {"sehirId": "58", "ilceAd": "Gölova", "ilceSlug": "golova"}, {"sehirId": "58", "ilceAd": "Gürün", "ilceSlug": "gurun"}, {"sehirId": "58", "ilceAd": "Hafik", "ilceSlug": "hafik"}, {"sehirId": "58", "ilceAd": "İmranlı", "ilceSlug": "imranli"}, {"sehirId": "58", "ilceAd": "Kangal", "ilceSlug": "kangal"}, {"sehirId": "58", "ilceAd": "Koyulhisar", "ilceSlug": "koyulhisar"}, {"sehirId": "58", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "58", "ilceAd": "Suşehri", "ilceSlug": "susehri"}, {"sehirId": "58", "ilceAd": "Şarkışla", "ilceSlug": "sarkisla"}, {"sehirId": "58", "ilceAd": "Ulaş", "ilceSlug": "ulas"}, {"sehirId": "58", "ilceAd": "Yıldızeli", "ilceSlug": "yildizeli"}, {"sehirId": "58", "ilceAd": "Zara", "ilceSlug": "zara"}
+    ]
+  },
+  {
+    "id":"63",
+    "sehirAd":"Şanlıurfa",
+    "sehirSlug":"sanliurfa",
+    "ilceler":
+    [
+     {"sehirId": "63", "ilceAd": "Akçakale", "ilceSlug": "akcakale"}, {"sehirId": "63", "ilceAd": "Birecik", "ilceSlug": "birecik"}, {"sehirId": "63", "ilceAd": "Bozova", "ilceSlug": "bozova"}, {"sehirId": "63", "ilceAd": "Ceylanpınar", "ilceSlug": "ceylanpinar"}, {"sehirId": "63", "ilceAd": "Eyyübiye", "ilceSlug": "eyyubiye"}, {"sehirId": "63", "ilceAd": "Halfeti", "ilceSlug": "halfeti"}, {"sehirId": "63", "ilceAd": "Haliliye", "ilceSlug": "haliliye"}, {"sehirId": "63", "ilceAd": "Harran", "ilceSlug": "harran"}, {"sehirId": "63", "ilceAd": "Hilvan", "ilceSlug": "hilvan"}, {"sehirId": "63", "ilceAd": "Karaköprü", "ilceSlug": "karakopru"}, {"sehirId": "63", "ilceAd": "Siverek", "ilceSlug": "siverek"}, {"sehirId": "63", "ilceAd": "Suruç", "ilceSlug": "suruc"}, {"sehirId": "63", "ilceAd": "Viranşehir", "ilceSlug": "viransehir"}, {"sehirId": "63", "ilceAd": "Merkez", "ilceSlug": "merkez"}
+    ]
+  },
+  {
+    "id":"73",
+    "sehirAd":"Şırnak",
+    "sehirSlug":"sirnak",
+    "ilceler":
+    [
+     {"sehirId": "73", "ilceAd": "Beytüşşebap", "ilceSlug": "beytussebap"}, {"sehirId": "73", "ilceAd": "Cizre", "ilceSlug": "cizre"}, {"sehirId": "73", "ilceAd": "Güçlükonak", "ilceSlug": "guclukonak"}, {"sehirId": "73", "ilceAd": "İdil", "ilceSlug": "idil"}, {"sehirId": "73", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "73", "ilceAd": "Silopi", "ilceSlug": "silopi"}, {"sehirId": "73", "ilceAd": "Uludere", "ilceSlug": "uludere"}
+    ]
+  },
+  {
+    "id":"59",
+    "sehirAd":"Tekirdağ",
+    "sehirSlug":"tekirdag",
+    "ilceler":
+    [
+     {"sehirId": "59", "ilceAd": "Çerkezköy", "ilceSlug": "cerkezkoy"}, {"sehirId": "59", "ilceAd": "Çorlu", "ilceSlug": "corlu"}, {"sehirId": "59", "ilceAd": "Ergene", "ilceSlug": "ergene"}, {"sehirId": "59", "ilceAd": "Hayrabolu", "ilceSlug": "hayrabolu"}, {"sehirId": "59", "ilceAd": "Kapaklı", "ilceSlug": "kapakli"}, {"sehirId": "59", "ilceAd": "Malkara", "ilceSlug": "malkara"}, {"sehirId": "59", "ilceAd": "Marmaraereğlisi", "ilceSlug": "marmaraereglisi"}, {"sehirId": "59", "ilceAd": "Muratlı", "ilceSlug": "muratli"}, {"sehirId": "59", "ilceAd": "Saray", "ilceSlug": "saray"}, {"sehirId": "59", "ilceAd": "Süleymanpaşa", "ilceSlug": "suleymanpasa"}, {"sehirId": "59", "ilceAd": "Şarköy", "ilceSlug": "sarkoy"}
+    ]
+  },
+  {
+    "id":"60",
+    "sehirAd":"Tokat",
+    "sehirSlug":"tokat",
+    "ilceler":
+    [
+     {"sehirId": "60", "ilceAd": "Almus", "ilceSlug": "almus"}, {"sehirId": "60", "ilceAd": "Artova", "ilceSlug": "artova"}, {"sehirId": "60", "ilceAd": "Başçiftlik", "ilceSlug": "basciftlik"}, {"sehirId": "60", "ilceAd": "Erbaa", "ilceSlug": "erbaa"}, {"sehirId": "60", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "60", "ilceAd": "Niksar", "ilceSlug": "niksar"}, {"sehirId": "60", "ilceAd": "Pazar", "ilceSlug": "pazar"}, {"sehirId": "60", "ilceAd": "Reşadiye", "ilceSlug": "resadiye"}, {"sehirId": "60", "ilceAd": "Sulusaray", "ilceSlug": "sulusaray"}, {"sehirId": "60", "ilceAd": "Turhal", "ilceSlug": "turhal"}, {"sehirId": "60", "ilceAd": "Yeşilyurt", "ilceSlug": "yesilyurt"}, {"sehirId": "60", "ilceAd": "Zile", "ilceSlug": "zile"}
+    ]
+  },
+  {
+    "id":"61",
+    "sehirAd":"Trabzon",
+    "sehirSlug":"trabzon",
+    "ilceler":
+    [
+     {"sehirId": "61", "ilceAd": "Akçaabat", "ilceSlug": "akcaabat"}, {"sehirId": "61", "ilceAd": "Araklı", "ilceSlug": "arakli"}, {"sehirId": "61", "ilceAd": "Arsin", "ilceSlug": "arsin"}, {"sehirId": "61", "ilceAd": "Beşikdüzü", "ilceSlug": "besikduzu"}, {"sehirId": "61", "ilceAd": "Çarşıbaşı", "ilceSlug": "carsibasi"}, {"sehirId": "61", "ilceAd": "Çaykara", "ilceSlug": "caykara"}, {"sehirId": "61", "ilceAd": "Dernekpazarı", "ilceSlug": "dernekpazari"}, {"sehirId": "61", "ilceAd": "Düzköy", "ilceSlug": "duzkoy"}, {"sehirId": "61", "ilceAd": "Hayrat", "ilceSlug": "hayrat"}, {"sehirId": "61", "ilceAd": "Köprübaşı", "ilceSlug": "koprubasi"}, {"sehirId": "61", "ilceAd": "Maçka", "ilceSlug": "macka"}, {"sehirId": "61", "ilceAd": "Of", "ilceSlug": "of"}, {"sehirId": "61", "ilceAd": "Ortahisar", "ilceSlug": "ortahisar"}, {"sehirId": "61", "ilceAd": "Sürmene", "ilceSlug": "surmene"}, {"sehirId": "61", "ilceAd": "Şalpazarı", "ilceSlug": "salpazari"}, {"sehirId": "61", "ilceAd": "Tonya", "ilceSlug": "tonya"}, {"sehirId": "61", "ilceAd": "Vakfıkebir", "ilceSlug": "vakfikebir"}, {"sehirId": "61", "ilceAd": "Yomra", "ilceSlug": "yomra"}
+    ]
+  },
+  {
+    "id":"62",
+    "sehirAd":"Tunceli",
+    "sehirSlug":"tunceli",
+    "ilceler":
+    [
+     {"sehirId": "62", "ilceAd": "Çemişgezek", "ilceSlug": "cemisgezek"}, {"sehirId": "62", "ilceAd": "Hozat", "ilceSlug": "hozat"}, {"sehirId": "62", "ilceAd": "Mazgirt", "ilceSlug": "mazgirt"}, {"sehirId": "62", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "62", "ilceAd": "Nazımiye", "ilceSlug": "nazimiye"}, {"sehirId": "62", "ilceAd": "Ovacık", "ilceSlug": "ovacik"}, {"sehirId": "62", "ilceAd": "Pertek", "ilceSlug": "pertek"}, {"sehirId": "62", "ilceAd": "Pülümür", "ilceSlug": "pulumur"}
+    ]
+  },
+  {
+    "id":"64",
+    "sehirAd":"Uşak",
+    "sehirSlug":"usak",
+    "ilceler":
+    [
+     {"sehirId": "64", "ilceAd": "Banaz", "ilceSlug": "banaz"}, {"sehirId": "64", "ilceAd": "Eşme", "ilceSlug": "esme"}, {"sehirId": "64", "ilceAd": "Karahallı", "ilceSlug": "karahalli"}, {"sehirId": "64", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "64", "ilceAd": "Sivaslı", "ilceSlug": "sivasli"}, {"sehirId": "64", "ilceAd": "Ulubey", "ilceSlug": "ulubey"}
+    ]
+  },
+  {
+    "id":"65",
+    "sehirAd":"Van",
+    "sehirSlug":"van",
+    "ilceler":
+    [
+     {"sehirId": "65", "ilceAd": "Bahçesaray", "ilceSlug": "bahcesaray"}, {"sehirId": "65", "ilceAd": "Başkale", "ilceSlug": "baskale"}, {"sehirId": "65", "ilceAd": "Çaldıran", "ilceSlug": "caldiran"}, {"sehirId": "65", "ilceAd": "Çatak", "ilceSlug": "catak"}, {"sehirId": "65", "ilceAd": "Edremit", "ilceSlug": "edremit"}, {"sehirId": "65", "ilceAd": "Erciş", "ilceSlug": "ercis"}, {"sehirId": "65", "ilceAd": "Gevaş", "ilceSlug": "gevas"}, {"sehirId": "65", "ilceAd": "Gürpınar", "ilceSlug": "gurpinar"}, {"sehirId": "65", "ilceAd": "İpekyolu", "ilceSlug": "ipekyolu"}, {"sehirId": "65", "ilceAd": "Muradiye", "ilceSlug": "muradiye"}, {"sehirId": "65", "ilceAd": "Özalp", "ilceSlug": "ozalp"}, {"sehirId": "65", "ilceAd": "Saray", "ilceSlug": "saray"}, {"sehirId": "65", "ilceAd": "Tuşba", "ilceSlug": "tusba"}
+    ]
+  },
+  {
+    "id":"77",
+    "sehirAd":"Yalova",
+    "sehirSlug":"yalova",
+    "ilceler":
+    [
+     {"sehirId": "77", "ilceAd": "Altınova", "ilceSlug": "altinova"}, {"sehirId": "77", "ilceAd": "Armutlu", "ilceSlug": "armutlu"}, {"sehirId": "77", "ilceAd": "Çınarcık", "ilceSlug": "cinarcik"}, {"sehirId": "77", "ilceAd": "Çiftlikköy", "ilceSlug": "ciftlikkoy"}, {"sehirId": "77", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "77", "ilceAd": "Termal", "ilceSlug": "termal"}
+    ]
+  },
+  {
+    "id":"66",
+    "sehirAd":"Yozgat",
+    "sehirSlug":"yozgat",
+    "ilceler":
+    [
+     {"sehirId": "66", "ilceAd": "Akdağmadeni", "ilceSlug": "akdagmadeni"}, {"sehirId": "66", "ilceAd": "Aydıncık", "ilceSlug": "aydincik"}, {"sehirId": "66", "ilceAd": "Boğazlıyan", "ilceSlug": "bogazliyan"}, {"sehirId": "66", "ilceAd": "Çandır", "ilceSlug": "candir"}, {"sehirId": "66", "ilceAd": "Çayıralan", "ilceSlug": "cayiralan"}, {"sehirId": "66", "ilceAd": "Çekerek", "ilceSlug": "cekerek"}, {"sehirId": "66", "ilceAd": "Kadışehri", "ilceSlug": "kadisehri"}, {"sehirId": "66", "ilceAd": "Merkez", "ilceSlug": "merkez"}, {"sehirId": "66", "ilceAd": "Saraykent", "ilceSlug": "saraykent"}, {"sehirId": "66", "ilceAd": "Sarıkaya", "ilceSlug": "sarikaya"}, {"sehirId": "66", "ilceAd": "Sorgun", "ilceSlug": "sorgun"}, {"sehirId": "66", "ilceAd": "Şefaatli", "ilceSlug": "sefaatli"}, {"sehirId": "66", "ilceAd": "Yenifakılı", "ilceSlug": "yenifakili"}, {"sehirId": "66", "ilceAd": "Yerköy", "ilceSlug": "yerkoy"}
+    ]
+  },
+  {
+    "id":"67",
+    "sehirAd":"Zonguldak",
+    "sehirSlug":"zonguldak",
+    "ilceler":
+    [
+     {"sehirId": "67", "ilceAd": "Alaplı", "ilceSlug": "alapli"}, {"sehirId": "67", "ilceAd": "Çaycuma", "ilceSlug": "caycuma"}, {"sehirId": "67", "ilceAd": "Devrek", "ilceSlug": "devrek"}, {"sehirId": "67", "ilceAd": "Ereğli", "ilceSlug": "eregli"}, {"sehirId": "67", "ilceAd": "Gökçebey", "ilceSlug": "gokcebey"}, {"sehirId": "67", "ilceAd": "Kilimli", "ilceSlug": "kilimli"}, {"sehirId": "67", "ilceAd": "Kozlu", "ilceSlug": "kozlu"}, {"sehirId": "67", "ilceAd": "Merkez", "ilceSlug": "merkez"}
+    ]
+  },
+  {
+    "id":"82",
+    "sehirAd":"Kıbrıs KKTC",
+    "sehirSlug":"kibris",
+    "ilceler":
+    [
+     {"sehirId": "82", "ilceAd": "Alt Mesarya", "ilceSlug": "alt"mesarya"}, {"sehirId": "82", "ilceAd": "Gazimağusa", "ilceSlug": "gazimagusa"}, {"sehirId": "82", "ilceAd": "Girne", "ilceSlug": "girne"}, {"sehirId": "82", "ilceAd": "Güzelyurt", "ilceSlug": "guzelyurt"}, {"sehirId": "82", "ilceAd": "İskele", "ilceSlug": "iskele"}, {"sehirId": "82", "ilceAd": "Lefke", "ilceSlug": "lefke"}, {"sehirId": "82", "ilceAd": "Lefkoşa", "ilceSlug": "lefkosa"}
     ]
   }
 ]
