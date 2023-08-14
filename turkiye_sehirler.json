@@ -734,7 +734,7 @@
     "sehirSlug":"kibris",
     "ilceler":
     [
-     {"sehirId": "82", "ilceAd": "Alt Mesarya", "ilceSlug": "alt"mesarya"}, {"sehirId": "82", "ilceAd": "Gazimağusa", "ilceSlug": "gazimagusa"}, {"sehirId": "82", "ilceAd": "Girne", "ilceSlug": "girne"}, {"sehirId": "82", "ilceAd": "Güzelyurt", "ilceSlug": "guzelyurt"}, {"sehirId": "82", "ilceAd": "İskele", "ilceSlug": "iskele"}, {"sehirId": "82", "ilceAd": "Lefke", "ilceSlug": "lefke"}, {"sehirId": "82", "ilceAd": "Lefkoşa", "ilceSlug": "lefkosa"}
+     {"sehirId": "82", "ilceAd": "Alt Mesarya", "ilceSlug": "alt-mesarya"}, {"sehirId": "82", "ilceAd": "Gazimağusa", "ilceSlug": "gazimagusa"}, {"sehirId": "82", "ilceAd": "Girne", "ilceSlug": "girne"}, {"sehirId": "82", "ilceAd": "Güzelyurt", "ilceSlug": "guzelyurt"}, {"sehirId": "82", "ilceAd": "İskele", "ilceSlug": "iskele"}, {"sehirId": "82", "ilceAd": "Lefke", "ilceSlug": "lefke"}, {"sehirId": "82", "ilceAd": "Lefkoşa", "ilceSlug": "lefkosa"}
     ]
   }
 ]
